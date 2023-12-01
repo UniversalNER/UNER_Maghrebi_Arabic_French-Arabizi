@@ -1,0 +1,2627 @@
+# sent_id = 815
+# text = moutou ya l3adyane khamsa fi 3aynikom ya lhasadine b1 sur c le \ Felicitation service d'ordre a setif rabi m3akoume et baraka allahou fikoume
+1	moutou	O	-	-
+2	ya	O	-	-
+3	l	O	-	-
+4	3adyane	O	-	-
+5	khamsa	O	-	-
+6	fi	O	-	-
+7	3aynikom	O	-	-
+8	ya	O	-	-
+9	l	O	-	-
+10	hasadine	O	-	-
+11	b1	O	-	-
+12	sur	O	-	-
+13	c	O	-	-
+14	le	O	-	-
+15	\	O	-	-
+16	Felicitation	O	-	-
+17	service	B-ORG	-	-
+18	d'	I-ORG	-	-
+19	ordre	I-ORG	-	-
+20	a	O	-	-
+21	setif	B-LOC	-	-
+22	rabi	O	-	-
+23	m3akoume	O	-	-
+24	et	O	-	-
+25	baraka	O	-	-
+26	allahou	O	-	-
+27	fikoume	O	-	-
+
+# sent_id = 4602
+# text = essalambi idni ellah edzayer etroh sud afriqou entoum ya fara3ina han elwakt bach elmal3ab taba3koum tazar3ouh foul wa ila mouloukhiya bil aranib saha remdankoum
+1	e	O	-	-
+2	ssalam	O	-	-
+3	bi	O	-	-
+4	idni	O	-	-
+5	ellah	O	-	-
+6	e	O	-	-
+7	dzayer	B-LOC	-	-
+8	etroh	O	-	-
+9	sud	B-LOC	-	-
+10	afriqou	I-LOC	-	-
+11	entoum	O	-	-
+12	ya	O	-	-
+13	fara3ina	O	-	-
+14	han	O	-	-
+15	el	O	-	-
+16	wakt	O	-	-
+17	bach	O	-	-
+18	el	O	-	-
+19	mal3ab	O	-	-
+20	taba3koum	O	-	-
+21	tazar3ouh	O	-	-
+22	foul	O	-	-
+23	wa	O	-	-
+24	ila	O	-	-
+25	mouloukhiya	O	-	-
+26	bi	O	-	-
+27	l	O	-	-
+28	aranib	O	-	-
+29	saha	O	-	-
+30	remdankoum	O	-	-
+
+# sent_id = M3S55
+# text = mala kon galolik hadrolik bli klemi 3eyab
+1	mala	O	-	-
+2	kon	O	-	-
+3	galo	O	-	-
+4	lik	O	-	-
+5	hadro	O	-	-
+6	lik	O	-	-
+7	bli	O	-	-
+8	klemi	O	-	-
+9	3eyab	O	-	-
+
+# sent_id = 9332
+# text = kayen ghir morad megheni li nahssen 3awnah parce que rabnouh fi lasio
+1	kayen	O	-	-
+2	ghir	O	-	-
+3	morad	B-PER	-	-
+4	megheni	I-PER	-	-
+5	li	O	-	-
+6	nahssen	O	-	-
+7	3awnah	O	-	-
+8	parce	O	-	-
+9	que	O	-	-
+10	rabnouh	O	-	-
+11	fi	O	-	-
+12	lasio	B-ORG	-	-
+
+# sent_id = 2482
+# text = 123 vive l'algerie m3ak ya lkhadra diri hala wou makra f lfaraina hahaha
+1	123	O	-	-
+2	vive	O	-	-
+3	l'	O	-	-
+4	algerie	B-LOC	-	-
+5	m3ak	O	-	-
+6	ya	O	-	-
+7	l	O	-	-
+8	khadra	B-ORG	-	-
+9	diri	O	-	-
+10	hala	O	-	-
+11	wou	O	-	-
+12	makra	O	-	-
+13	f	O	-	-
+14	l	O	-	-
+15	faraina	O	-	-
+16	hahaha	O	-	-
+
+# sent_id = 4435
+# text = matenssawech ahna ysamona mouloudia doran 3adna 08mlayne suporters ya elgalites mco t3al3a w rabi ekbir lakhatar les grands clubs jamais ymoutou ahna adina 03 coupes d
+1	matenssawech	O	-	-
+2	ahna	O	-	-
+3	ysamona	O	-	-
+4	mouloudia	B-ORG	-	-
+5	d	I-ORG	-	-
+6	oran	I-ORG	-	-
+7	3adna	O	-	-
+8	08	O	-	-
+9	mlayne	O	-	-
+10	suporters	O	-	-
+11	y	O	-	-
+12	a	O	-	-
+13	elgalites	O	-	-
+14	mco	B-ORG	-	-
+15	t3al3a	O	-	-
+16	w	O	-	-
+17	rabi	O	-	-
+18	ekbir	O	-	-
+19	lakhatar	O	-	-
+20	les	O	-	-
+21	grands	O	-	-
+22	clubs	O	-	-
+23	jamais	O	-	-
+24	ymoutou	O	-	-
+25	ahna	O	-	-
+26	adina	O	-	-
+27	03	O	-	-
+28	coupes	O	-	-
+29	d	O	-	-
+
+# sent_id = 1364
+# text = on va gagné inchaalah yarabi kon m3ana
+1	on	O	-	-
+2	va	O	-	-
+3	gagné	O	-	-
+4	inchaalah	O	-	-
+5	ya	O	-	-
+6	rabi	O	-	-
+7	kon	O	-	-
+8	m3ana	O	-	-
+
+# sent_id = 2452
+# text = m3ak ya sadaane le grand de oum dermane hata lmamat
+1	m3ak	O	-	-
+2	ya	O	-	-
+3	sadaane	B-PER	-	-
+4	le	O	-	-
+5	grand	O	-	-
+6	de	O	-	-
+7	oum	B-LOC	-	-
+8	dermane	I-LOC	-	-
+9	hata	O	-	-
+10	l	O	-	-
+11	mamat	O	-	-
+
+# sent_id = M2S53
+# text = lmacir ta3k sure ta3 l7asan wel7oucine
+1	l	O	-	-
+2	macir	O	-	-
+3	ta3k	O	-	-
+4	sure	O	-	-
+5	ta3	O	-	-
+6	l7asan	B-PER	-	-
+7	w	O	-	-
+8	el7oucine	B-PER	-	-
+
+# sent_id = 2755
+# text = lah yahafdak ya chawchi nta howa al haras al lawal wa rana ga3 ma3ak 123 vive al jazayar
+1	lah	O	-	-
+2	yahafdak	O	-	-
+3	ya	O	-	-
+4	chawchi	B-PER	-	-
+5	nta	O	-	-
+6	howa	O	-	-
+7	al	O	-	-
+8	haras	O	-	-
+9	al	O	-	-
+10	lawal	O	-	-
+11	wa	O	-	-
+12	rana	O	-	-
+13	ga3	O	-	-
+14	ma3ak	O	-	-
+15	123	O	-	-
+16	vive	O	-	-
+17	al	O	-	-
+18	jazayar	B-LOC	-	-
+
+# sent_id = 4536
+# text = ya rebeh sa3den estena rouhek wahdek fi mondial bla chewshi si bont ou rabi y3ayshek ma tzidesh etin bella
+1	ya	O	-	-
+2	rebeh	B-PER	-	-
+3	sa3den	I-PER	-	-
+4	estena	O	-	-
+5	rouhek	O	-	-
+6	wahdek	O	-	-
+7	fi	O	-	-
+8	mondial	O	-	-
+9	bla	O	-	-
+10	chewshi	B-PER	-	-
+11	si	O	-	-
+12	bont	O	-	-
+13	ou	O	-	-
+14	rabi	O	-	-
+15	y3ayshek	O	-	-
+16	ma	O	-	-
+17	tzidesh	O	-	-
+18	e	O	-	-
+19	tin	O	-	-
+20	bella	O	-	-
+
+# sent_id = 4555
+# text = inchaalah tatahlou les verts m3akom win tkounou nhaboukom merci meryouma l3asima la blanche
+1	inchaalah	O	-	-
+2	tatahlou	O	-	-
+3	les	O	-	-
+4	verts	B-ORG	-	-
+5	m3akom	O	-	-
+6	win	O	-	-
+7	tkounou	O	-	-
+8	nhaboukom	O	-	-
+9	merci	O	-	-
+10	meryouma	B-PER	-	-
+11	l	O	-	-
+12	3asima	O	-	-
+13	la	O	-	-
+14	blanche	B-LOC	-	-
+
+# sent_id = M3S4
+# text = ra7 ngoul les sujets l nass 3lihom dor
+1	ra7	O	-	-
+2	ngoul	O	-	-
+3	les	O	-	-
+4	sujets	O	-	-
+5	l	O	-	-
+6	nass	O	-	-
+7	3lihom	O	-	-
+8	dor	O	-	-
+
+# sent_id = 4686
+# text = nasta3raf bihom bassah kribe intikhabat 3asso rohkom (les bomb) itartgokom yak mayhabouch l khir el lablade est vive boutaflika
+1	nasta3raf	O	-	-
+2	bihom	O	-	-
+3	bassah	O	-	-
+4	kribe	O	-	-
+5	intikhabat	O	-	-
+6	3asso	O	-	-
+7	rohkom	O	-	-
+8	(	O	-	-
+9	les	O	-	-
+10	bomb	O	-	-
+11	)	O	-	-
+12	itartgokom	O	-	-
+13	yak	O	-	-
+14	mayhabouch	O	-	-
+15	l	O	-	-
+16	khir	O	-	-
+17	el	O	-	-
+18	l	O	-	-
+19	ablade	O	-	-
+20	est	O	-	-
+21	vive	O	-	-
+22	boutaflika	B-PER	-	-
+
+# sent_id = 4204
+# text = makfahomch edrahom w le pourcentage elli yeddouh fessel3a
+1	makfahomch	O	-	-
+2	e	O	-	-
+3	drahom	O	-	-
+4	w	O	-	-
+5	le	O	-	-
+6	pourcentage	O	-	-
+7	elli	O	-	-
+8	yeddouh	O	-	-
+9	f	O	-	-
+10	e	O	-	-
+11	ssel3a	O	-	-
+
+# sent_id = 59
+# text = vive saadan howa rajel sa7 o vive rawrawa o ziani nchallah la coop d'afrique makra fel masriyin o l coup du monde 2014 o tabka l'algerie hiya a9wa fari9 3arabi
+1	vive	O	-	-
+2	saadan	B-PER	-	-
+3	howa	O	-	-
+4	rajel	O	-	-
+5	sa7	O	-	-
+6	o	O	-	-
+7	vive	O	-	-
+8	rawrawa	B-PER	-	-
+9	o	O	-	-
+10	ziani	B-PER	-	-
+11	nchallah	O	-	-
+12	la	O	-	-
+13	coop	O	-	-
+14	d'	O	-	-
+15	afrique	O	-	-
+16	makra	O	-	-
+17	f	O	-	-
+18	el	O	-	-
+19	masriyin	O	-	-
+20	o	O	-	-
+21	l	O	-	-
+22	coup	O	-	-
+23	du	O	-	-
+24	monde	O	-	-
+25	2014	O	-	-
+26	o	O	-	-
+27	tabka	O	-	-
+28	l'	O	-	-
+29	algerie	B-LOC	-	-
+30	hiya	O	-	-
+31	a9wa	O	-	-
+32	fari9	O	-	-
+33	3arabi	O	-	-
+
+# sent_id = 1867
+# text = CHkoune li galek ma3andneche la taille fi dzair rak atchouf fi el photo
+1	CHkoune	O	-	-
+2	li	O	-	-
+3	galek	O	-	-
+4	ma3andneche	O	-	-
+5	la	O	-	-
+6	taille	O	-	-
+7	fi	O	-	-
+8	dzair	B-LOC	-	-
+9	rak	O	-	-
+10	atchouf	O	-	-
+11	fi	O	-	-
+12	el	O	-	-
+13	photo	O	-	-
+
+# sent_id = 11
+# text = ki yzid nsamoh bouzidhad alsa3a rahi hadr fi alfragh
+1	ki	O	-	-
+2	yzid	O	-	-
+3	nsamoh	O	-	-
+4	bouzid	O	-	-
+5	had	O	-	-
+6	al	O	-	-
+7	sa3a	O	-	-
+8	rah	O	-	-
+9	i	O	-	-
+10	hadr	O	-	-
+11	fi	O	-	-
+12	al	O	-	-
+13	fragh	O	-	-
+
+# sent_id = 1971
+# text = LA ilah ila allahhowa 3ala kouli chayi kadir
+1	LA	O	-	-
+2	ilah	O	-	-
+3	ila	O	-	-
+4	allah	O	-	-
+5	howa	O	-	-
+6	3ala	O	-	-
+7	kouli	O	-	-
+8	chayi	O	-	-
+9	kadir	O	-	-
+
+# sent_id = 9361
+# text = hada saadan wakila sah raso yabas mansouri m3a lahcene impossible yala3bo fizouj fi placa wahda karahtni f lequipe national
+1	hada	O	-	-
+2	saadan	B-PER	-	-
+3	wakila	O	-	-
+4	sah	O	-	-
+5	raso	O	-	-
+6	yabas	O	-	-
+7	mansouri	B-PER	-	-
+8	m3a	O	-	-
+9	lahcene	B-PER	-	-
+10	impossible	O	-	-
+11	yala3bo	O	-	-
+12	fi	O	-	-
+13	zouj	O	-	-
+14	fi	O	-	-
+15	placa	O	-	-
+16	wahda	O	-	-
+17	karahtni	O	-	-
+18	f	O	-	-
+19	l	O	-	-
+20	equipe	O	-	-
+21	national	O	-	-
+
+# sent_id = 2712
+# text = vive l'algerie salut les mzabe de berriane rabbi m3akom
+1	vive	O	-	-
+2	l'	O	-	-
+3	algerie	B-LOC	-	-
+4	salut	O	-	-
+5	les	O	-	-
+6	mzabe	O	-	-
+7	de	O	-	-
+8	berriane	B-LOC	-	-
+9	rabbi	O	-	-
+10	m3akom	O	-	-
+
+# sent_id = 3911
+# text = allah yarham elmawta mohsine rake 3ande rabi chahid mine karim wilaya dechlef
+1	allah	O	-	-
+2	yarham	O	-	-
+3	el	O	-	-
+4	mawta	O	-	-
+5	mohsine	B-PER	-	-
+6	rake	O	-	-
+7	3ande	O	-	-
+8	rabi	O	-	-
+9	chahid	O	-	-
+10	mine	O	-	-
+11	karim	O	-	-
+12	wilaya	O	-	-
+13	de	O	-	-
+14	chlef	B-LOC	-	-
+
+# sent_id = 2159
+# text = vive mca khassra walla rabha wlli ma3ajbouch alhale ydazzzz m3ahoum
+1	vive	O	-	-
+2	mca	B-ORG	-	-
+3	khassra	O	-	-
+4	walla	O	-	-
+5	rabha	O	-	-
+6	w	O	-	-
+7	lli	O	-	-
+8	ma3ajbouch	O	-	-
+9	al	O	-	-
+10	hale	O	-	-
+11	ydazzzz	O	-	-
+12	m3ahoum	O	-	-
+
+# sent_id = 4652
+# text = lazam nkata3 nidam l3amala lmasri rahou sahyouni aktar min sahayina nafsahoum
+1	lazam	O	-	-
+2	nkata3	O	-	-
+3	nidam	O	-	-
+4	l	O	-	-
+5	3amala	O	-	-
+6	l	O	-	-
+7	masri	O	-	-
+8	rahou	O	-	-
+9	sahyouni	O	-	-
+10	aktar	O	-	-
+11	min	O	-	-
+12	sahayina	O	-	-
+13	nafsahoum	O	-	-
+
+# sent_id = 589
+# text = la hawla wala kouwata ila bilah allahuma kun ma3ahum ya rab al3alamine amine salam
+1	la	O	-	-
+2	hawla	O	-	-
+3	wa	O	-	-
+4	la	O	-	-
+5	kouwata	O	-	-
+6	ila	O	-	-
+7	bi	O	-	-
+8	lah	O	-	-
+9	allahuma	O	-	-
+10	kun	O	-	-
+11	ma3ahum	O	-	-
+12	ya	O	-	-
+13	rab	O	-	-
+14	al	O	-	-
+15	3alamine	O	-	-
+16	amine	O	-	-
+17	salam	O	-	-
+
+# sent_id = M3S22
+# text = 3adina al 7eram ki rajel li mala7egech, yadreb marto bah teya7 o matoledche
+1	3adina	O	-	-
+2	al	O	-	-
+3	7eram	O	-	-
+4	ki	O	-	-
+5	rajel	O	-	-
+6	li	O	-	-
+7	mala7egech	O	-	-
+8	,	O	-	-
+9	yadreb	O	-	-
+10	marto	O	-	-
+11	bah	O	-	-
+12	teya7	O	-	-
+13	o	O	-	-
+14	matoledche	O	-	-
+
+# sent_id = 576
+# text = ila sahib ta3lik 1 anta la ta3rif man howa hanachi hanachi howa jskabylie ya mohand yofrihona fi kol alawkat vive hanachi fooooooooooooooooooooore ama khadis rouh tal3ab fa almouloukhiya
+1	ila	O	-	-
+2	sahib	O	-	-
+3	ta3lik	O	-	-
+4	1	O	-	-
+5	anta	O	-	-
+6	la	O	-	-
+7	ta3rif	O	-	-
+8	man	O	-	-
+9	howa	O	-	-
+10	hanachi	B-PER	-	-
+11	hanachi	B-PER	-	-
+12	howa	O	-	-
+13	jskabylie	B-ORG	-	-
+14	ya	O	-	-
+15	mohand	B-PER	-	-
+16	yofrihona	O	-	-
+17	fi	O	-	-
+18	kol	O	-	-
+19	al	O	-	-
+20	awkat	O	-	-
+21	vive	O	-	-
+22	hanachi	B-PER	-	-
+23	fooooooooooooooooooooore	O	-	-
+24	ama	O	-	-
+25	khadis	B-PER	-	-
+26	rouh	O	-	-
+27	tal3ab	O	-	-
+28	fa	O	-	-
+29	al	O	-	-
+30	mouloukhiya	B-ORG	-	-
+
+# sent_id = 3859
+# text = Meme si vous ramenez Maradona ou bien Pelévous recupérez jamais le niveau mondiale D3aaoui Saddane taba3koum toujours!!
+1	Meme	O	-	-
+2	si	O	-	-
+3	vous	O	-	-
+4	ramenez	O	-	-
+5	Maradona	B-PER	-	-
+6	ou	O	-	-
+7	bien	O	-	-
+8	Pelé	B-PER	-	-
+9	vous	O	-	-
+10	recupérez	O	-	-
+11	jamais	O	-	-
+12	le	O	-	-
+13	niveau	O	-	-
+14	mondiale	O	-	-
+15	D3aaoui	O	-	-
+16	Saddane	B-PER	-	-
+17	taba3koum	O	-	-
+18	toujours	O	-	-
+19	!!	O	-	-
+
+# sent_id = 4610
+# text = kan motaw9a3 ana maroc radi tnadam lahkach 3anda biya tahtiya
+1	kan	O	-	-
+2	motaw9a3	O	-	-
+3	ana	O	-	-
+4	maroc	B-LOC	-	-
+5	radi	O	-	-
+6	tnadam	O	-	-
+7	lahkach	O	-	-
+8	3anda	O	-	-
+9	biya	O	-	-
+10	tahtiya	O	-	-
+
+# sent_id = 1581
+# text = B(bien venu) A(au) C(chaumage) elblad ntba3at si volu
+1	B	O	-	-
+2	(	O	-	-
+3	bien	O	-	-
+4	venu	O	-	-
+5	)	O	-	-
+6	A	O	-	-
+7	(	O	-	-
+8	au	O	-	-
+9	)	O	-	-
+10	C	O	-	-
+11	(	O	-	-
+12	chaumage	O	-	-
+13	)	O	-	-
+14	el	O	-	-
+15	blad	O	-	-
+16	ntba3at	O	-	-
+17	si	O	-	-
+18	volu	O	-	-
+
+# sent_id = 4014
+# text = les algerien 3andhom 6 jour vacance ou youm kedma w ychkiw
+1	les	O	-	-
+2	algerien	O	-	-
+3	3andhom	O	-	-
+4	6	O	-	-
+5	jour	O	-	-
+6	vacance	O	-	-
+7	ou	O	-	-
+8	youm	O	-	-
+9	kedma	O	-	-
+10	w	O	-	-
+11	ychkiw	O	-	-
+
+# sent_id = 32
+# text = ya kho inshalah wach rahou fi galbak adirou si vrai lgourba wa3a maisje pens machi kim alablad
+1	ya	O	-	-
+2	kho	O	-	-
+3	inshalah	O	-	-
+4	wach	O	-	-
+5	rahou	O	-	-
+6	fi	O	-	-
+7	galbak	O	-	-
+8	adirou	O	-	-
+9	si	O	-	-
+10	vrai	O	-	-
+11	l	O	-	-
+12	gourba	O	-	-
+13	wa3a	O	-	-
+14	mais	O	-	-
+15	je	O	-	-
+16	pens	O	-	-
+17	machi	O	-	-
+18	kim	O	-	-
+19	ala	O	-	-
+20	blad	O	-	-
+
+# sent_id = M4S69
+# text = Netla3 el foug w mnin nhawed ndir
+1	Netla3	O	-	-
+2	el	O	-	-
+3	foug	O	-	-
+4	w	O	-	-
+5	mnin	O	-	-
+6	nhawed	O	-	-
+7	ndir	O	-	-
+
+# sent_id = M1S5
+# text = Anaya l youm jm'en fou, ki 3retf lyoum koulchi festi, Koulchi khdeb koulchi faut, qoulli wiin la vérité
+1	Anaya	O	-	-
+2	l	O	-	-
+3	youm	O	-	-
+4	j	O	-	-
+5	m'	O	-	-
+6	en	O	-	-
+7	fou	O	-	-
+8	,	O	-	-
+9	ki	O	-	-
+10	3retf	O	-	-
+11	l	O	-	-
+12	youm	O	-	-
+13	koulchi	O	-	-
+14	festi	O	-	-
+15	,	O	-	-
+16	Koulchi	O	-	-
+17	khdeb	O	-	-
+18	koulchi	O	-	-
+19	faut	O	-	-
+20	,	O	-	-
+21	qoulli	O	-	-
+22	wiin	O	-	-
+23	la	O	-	-
+24	vérité	O	-	-
+
+# sent_id = 246
+# text = vive mco ou tal3a anchalah
+1	vive	O	-	-
+2	mco	B-ORG	-	-
+3	ou	O	-	-
+4	tal3a	O	-	-
+5	anchalah	O	-	-
+
+# sent_id = M4S32
+# text = W lakane hakmouni lia ana publicité
+1	W	O	-	-
+2	lakane	O	-	-
+3	hakmouni	O	-	-
+4	lia	O	-	-
+5	ana	O	-	-
+6	publicité	O	-	-
+
+# sent_id = 528
+# text = 3ami mlih ou zidlou elhwa wa rih rabi yastar allez les verts go to the hill chebka ya hadji diouf
+1	3ami	O	-	-
+2	mlih	O	-	-
+3	ou	O	-	-
+4	zidlou	O	-	-
+5	el	O	-	-
+6	hwa	O	-	-
+7	wa	O	-	-
+8	rih	O	-	-
+9	rabi	O	-	-
+10	yastar	O	-	-
+11	allez	O	-	-
+12	les	O	-	-
+13	verts	B-ORG	-	-
+14	go	O	-	-
+15	to	O	-	-
+16	the	O	-	-
+17	hill	O	-	-
+18	chebka	O	-	-
+19	ya	O	-	-
+20	hadji	B-PER	-	-
+21	diouf	I-PER	-	-
+
+# sent_id = 4680
+# text = howa 3amala bi aslih
+1	howa	O	-	-
+2	3amala	O	-	-
+3	bi	O	-	-
+4	aslih	O	-	-
+
+# sent_id = 3288
+# text = allahoma la tohasibna bima yaf3aloho atafihin
+1	allahoma	O	-	-
+2	la	O	-	-
+3	tohasibna	O	-	-
+4	bima	O	-	-
+5	yaf3aloho	O	-	-
+6	a	O	-	-
+7	tafihin	O	-	-
+
+# sent_id = 2665
+# text = machaallah par contre kayen soit disant des hommes 3ayafin
+1	machaallah	O	-	-
+2	par	O	-	-
+3	contre	O	-	-
+4	kayen	O	-	-
+5	soit	O	-	-
+6	disant	O	-	-
+7	des	O	-	-
+8	hommes	O	-	-
+9	3ayafin	O	-	-
+
+# sent_id = M2S5
+# text = matkhafch ani hna ahi mazalt la charge
+1	matkhafch	O	-	-
+2	ani	O	-	-
+3	hna	O	-	-
+4	ahi	O	-	-
+5	mazalt	O	-	-
+6	la	O	-	-
+7	charge	O	-	-
+
+# sent_id = 2066
+# text = yaw ma3labalkm bwalou yaw hadou reservaouhoum li lharga 3afsa djdida allez sans retour
+1	yaw	O	-	-
+2	ma	O	-	-
+3	3la	O	-	-
+4	balkm	O	-	-
+5	bwalou	O	-	-
+6	yaw	O	-	-
+7	hadou	O	-	-
+8	reservaouhoum	O	-	-
+9	li	O	-	-
+10	l	O	-	-
+11	harga	O	-	-
+12	3afsa	O	-	-
+13	djdida	O	-	-
+14	allez	O	-	-
+15	sans	O	-	-
+16	retour	O	-	-
+
+# sent_id = 61
+# text = bye bye ya el khadra ma3a sa3dan
+1	bye	O	-	-
+2	bye	O	-	-
+3	ya	O	-	-
+4	el	O	-	-
+5	khadra	B-ORG	-	-
+6	ma3a	O	-	-
+7	sa3dan	B-PER	-	-
+
+# sent_id = 1180
+# text = rabi yahdihom lkhdma la m3arafhom hna n3al9o lé diplome f l hit
+1	rabi	O	-	-
+2	yahdihom	O	-	-
+3	l	O	-	-
+4	khdma	O	-	-
+5	la	O	-	-
+6	m3arafhom	O	-	-
+7	hna	O	-	-
+8	n3al9o	O	-	-
+9	lé	O	-	-
+10	diplome	O	-	-
+11	f	O	-	-
+12	l	O	-	-
+13	hit	O	-	-
+
+# sent_id = 4620
+# text = la3natoallah 3ala thalimine
+1	la3natoallah	O	-	-
+2	3ala	O	-	-
+3	thalimine	O	-	-
+
+# sent_id = 1032
+# text = khlass ness karhou doula hassbatalha la3ba rahi tetka3ad bel ghachi mais matkhafouche krib nchallah takhlass 3likoum
+1	khlass	O	-	-
+2	ness	O	-	-
+3	karhou	O	-	-
+4	doula	O	-	-
+5	hassbatalha	O	-	-
+6	la3ba	O	-	-
+7	rahi	O	-	-
+8	tetka3ad	O	-	-
+9	b	O	-	-
+10	el	O	-	-
+11	ghachi	O	-	-
+12	mais	O	-	-
+13	matkhafouche	O	-	-
+14	krib	O	-	-
+15	nchallah	O	-	-
+16	takhlass	O	-	-
+17	3likoum	O	-	-
+
+# sent_id = M4S18
+# text = Ya3tiwni la cocaine, na3tihoum el cannabis
+1	Ya3tiwni	O	-	-
+2	la	O	-	-
+3	cocaine	O	-	-
+4	,	O	-	-
+5	na3tihoum	O	-	-
+6	el	O	-	-
+7	cannabis	O	-	-
+
+# sent_id = 2772
+# text = mahboula hhhhhhhhhhhhhhhhnasta3ref bik yan3al bou zouadjles ie les etudes
+1	mahboula	O	-	-
+2	hhhhhhhhhhhhhhhh	O	-	-
+3	nasta3ref	O	-	-
+4	bik	O	-	-
+5	yan3al	O	-	-
+6	bou	O	-	-
+7	zouadj	O	-	-
+8	les	O	-	-
+9	ie	O	-	-
+10	les	O	-	-
+11	etudes	O	-	-
+
+# sent_id = 16
+# text = ana wellah mafhamt hadi lkharja ta3ek a blhout hssebnak rajel ou hna li rfednak ki kasstek setif hak lkhir akhouya deberrassek normalement rak cheft f lfutur ta3ek ou rak kbir alah yssahel bessah aso chlef entraineur li yakhdem m3aha najeh ki ta ki 3amrani ki li ssebkoukom ki li jayyn ou vive aso
+1	ana	O	-	-
+2	wellah	O	-	-
+3	mafhamt	O	-	-
+4	hadi	O	-	-
+5	l	O	-	-
+6	kharja	O	-	-
+7	ta3ek	O	-	-
+8	a	O	-	-
+9	blhout	B-PER	-	-
+10	hssebnak	O	-	-
+11	rajel	O	-	-
+12	ou	O	-	-
+13	hna	O	-	-
+14	li	O	-	-
+15	rfednak	O	-	-
+16	ki	O	-	-
+17	kasstek	O	-	-
+18	setif	B-LOC	-	-
+19	hak	O	-	-
+20	l	O	-	-
+21	khir	O	-	-
+22	akhouya	O	-	-
+23	deber	O	-	-
+24	rassek	O	-	-
+25	normalement	O	-	-
+26	rak	O	-	-
+27	cheft	O	-	-
+28	f	O	-	-
+29	l	O	-	-
+30	futur	O	-	-
+31	ta3ek	O	-	-
+32	ou	O	-	-
+33	rak	O	-	-
+34	kbir	O	-	-
+35	alah	O	-	-
+36	yssahel	O	-	-
+37	bessah	O	-	-
+38	aso	B-ORG	-	-
+39	chlef	I-ORG	-	-
+40	entraineur	O	-	-
+41	li	O	-	-
+42	yakhdem	O	-	-
+43	m3aha	O	-	-
+44	najeh	O	-	-
+45	ki	O	-	-
+46	ta	O	-	-
+47	ki	O	-	-
+48	3amrani	B-PER	-	-
+49	ki	O	-	-
+50	li	O	-	-
+51	ssebkoukom	O	-	-
+52	ki	O	-	-
+53	li	O	-	-
+54	jayyn	O	-	-
+55	ou	O	-	-
+56	vive	O	-	-
+57	aso	B-ORG	-	-
+
+# sent_id = 3145
+# text = ylike rachwa et li 3andou el 3arfe nchalah nerebho avec un max de but m3ak yal khadraaaaa
+1	ylike	O	-	-
+2	rachwa	O	-	-
+3	et	O	-	-
+4	li	O	-	-
+5	3andou	O	-	-
+6	el	O	-	-
+7	3arfe	O	-	-
+8	nchalah	O	-	-
+9	nerebho	O	-	-
+10	avec	O	-	-
+11	un	O	-	-
+12	max	O	-	-
+13	de	O	-	-
+14	but	O	-	-
+15	m3ak	O	-	-
+16	y	O	-	-
+17	al	O	-	-
+18	khadraaaaa	B-ORG	-	-
+
+# sent_id = 2236
+# text = majda romi w hayfa wahbi ykhalso 3liha les milird w match mabghawch ykhalsoh parce que mafich CHIPPAn3al waldikom ga3
+1	majda	B-PER	-	-
+2	romi	I-PER	-	-
+3	w	O	-	-
+4	hayfa	B-PER	-	-
+5	wahbi	I-PER	-	-
+6	ykhalso	O	-	-
+7	3liha	O	-	-
+8	les	O	-	-
+9	milird	O	-	-
+10	w	O	-	-
+11	match	O	-	-
+12	mabghawch	O	-	-
+13	ykhalsoh	O	-	-
+14	parce	O	-	-
+15	que	O	-	-
+16	mafich	O	-	-
+17	CHIPPA	O	-	-
+18	n3al	O	-	-
+19	waldikom	O	-	-
+20	ga3	O	-	-
+
+# sent_id = 87
+# text = Salam Alikoum Wa 3ala min itaba3a el houda
+1	Salam	O	-	-
+2	Alikoum	O	-	-
+3	Wa	O	-	-
+4	3ala	O	-	-
+5	min	O	-	-
+6	itaba3a	O	-	-
+7	el	O	-	-
+8	houda	O	-	-
+
+# sent_id = 3933
+# text = vive saadan wa ma3ak lalamamat wa nchlah takamal ch abdit
+1	vive	O	-	-
+2	saadan	B-PER	-	-
+3	wa	O	-	-
+4	ma3ak	O	-	-
+5	lala	O	-	-
+6	mamat	O	-	-
+7	wa	O	-	-
+8	nchlah	O	-	-
+9	takamal	O	-	-
+10	ch	O	-	-
+11	abdit	O	-	-
+
+# sent_id = 18
+# text = malhom yaw 123vive algerie gadi nerbho m3a benchikha w rebi kebir
+1	malhom	O	-	-
+2	yaw	O	-	-
+3	123	O	-	-
+4	vive	O	-	-
+5	algerie	B-LOC	-	-
+6	gadi	O	-	-
+7	nerbho	O	-	-
+8	m3a	O	-	-
+9	benchikha	B-PER	-	-
+10	w	O	-	-
+11	rebi	O	-	-
+12	kebir	O	-	-
+
+# sent_id = 4462
+# text = alah yjib khir hada 3am
+1	alah	O	-	-
+2	yjib	O	-	-
+3	khir	O	-	-
+4	hada	O	-	-
+5	3am	O	-	-
+
+# sent_id = 3020
+# text = m3amare kadafie yliklou le puplique ta3 ome darmane
+1	m3amare	B-PER	-	-
+2	kadafie	I-PER	-	-
+3	yliklou	O	-	-
+4	le	O	-	-
+5	puplique	O	-	-
+6	ta3	O	-	-
+7	ome	B-LOC	-	-
+8	darmane	I-LOC	-	-
+
+# sent_id = M4S83
+# text = Men l’enfance l l’adolescence, koul khatra yzidou fe la doze
+1	Men	O	-	-
+2	l’	O	-	-
+3	enfance	O	-	-
+4	l	O	-	-
+5	l’	O	-	-
+6	adolescence	O	-	-
+7	,	O	-	-
+8	koul	O	-	-
+9	khatra	O	-	-
+10	yzidou	O	-	-
+11	fe	O	-	-
+12	la	O	-	-
+13	doze	O	-	-
+
+# sent_id = 1377
+# text = ya bouteflika zid fi la boursse wa ana rana m3ak
+1	ya	O	-	-
+2	bouteflika	B-PER	-	-
+3	zid	O	-	-
+4	fi	O	-	-
+5	la	O	-	-
+6	boursse	O	-	-
+7	wa	O	-	-
+8	ana	O	-	-
+9	rana	O	-	-
+10	m3ak	O	-	-
+
+# sent_id = 2612
+# text = malgre ga3 al drahem ali 3andna ma3andnach ali stade ki siadna allah yaahdihom les sekro nta3 lalgeri
+1	malgre	O	-	-
+2	ga3	O	-	-
+3	al	O	-	-
+4	drahem	O	-	-
+5	ali	O	-	-
+6	3andna	O	-	-
+7	ma3andnach	O	-	-
+8	ali	O	-	-
+9	stade	O	-	-
+10	ki	O	-	-
+11	siadna	O	-	-
+12	allah	O	-	-
+13	yaahdihom	O	-	-
+14	les	O	-	-
+15	sekro	O	-	-
+16	nta3	O	-	-
+17	l	O	-	-
+18	algeri	B-LOC	-	-
+
+# sent_id = 88
+# text = J'étais en tunisie pour 10 jours avec les gens qui ont specialistes en foot les tunisiens aiment l'algerie comme nous aimons la tunisiewanta ya masraoui itkalimt 3ala fouzkoum 3la italia wi match brazil winou match USA
+1	J'	O	-	-
+2	étais	O	-	-
+3	en	O	-	-
+4	tunisie	B-LOC	-	-
+5	pour	O	-	-
+6	10	O	-	-
+7	jours	O	-	-
+8	avec	O	-	-
+9	les	O	-	-
+10	gens	O	-	-
+11	qui	O	-	-
+12	ont	O	-	-
+13	specialistes	O	-	-
+14	en	O	-	-
+15	foot	O	-	-
+16	les	O	-	-
+17	tunisiens	O	-	-
+18	aiment	O	-	-
+19	l'	O	-	-
+20	algerie	B-LOC	-	-
+21	comme	O	-	-
+22	nous	O	-	-
+23	aimons	O	-	-
+24	la	O	-	-
+25	tunisie	B-LOC	-	-
+26	w	O	-	-
+27	anta	O	-	-
+28	ya	O	-	-
+29	masraoui	O	-	-
+30	itkalimt	O	-	-
+31	3ala	O	-	-
+32	fouzkoum	O	-	-
+33	3la	O	-	-
+34	italia	B-LOC	-	-
+35	wi	O	-	-
+36	match	O	-	-
+37	brazil	B-LOC	-	-
+38	winou	O	-	-
+39	match	O	-	-
+40	USA	B-LOC	-	-
+
+# sent_id = 4420
+# text = Publiez SVPJe pense que celui qui a fait cette étude est totalement a coté de la recherche scientifiquecomment a t'il pu quantifier une Variable aussi délicate que (El Isti3ab)?c'est du n'importe quoi messieurs
+1	Publiez	O	-	-
+2	SVP	O	-	-
+3	Je	O	-	-
+4	pense	O	-	-
+5	que	O	-	-
+6	celui	O	-	-
+7	qui	O	-	-
+8	a	O	-	-
+9	fait	O	-	-
+10	cette	O	-	-
+11	étude	O	-	-
+12	est	O	-	-
+13	totalement	O	-	-
+14	a	O	-	-
+15	coté	O	-	-
+16	de	O	-	-
+17	la	O	-	-
+18	recherche	O	-	-
+19	scientifique	O	-	-
+20	comment	O	-	-
+21	a	O	-	-
+22	t'il	O	-	-
+23	pu	O	-	-
+24	quantifier	O	-	-
+25	une	O	-	-
+26	Variable	O	-	-
+27	aussi	O	-	-
+28	délicate	O	-	-
+29	que	O	-	-
+30	(	O	-	-
+31	El	O	-	-
+32	Isti3ab	O	-	-
+33	)	O	-	-
+34	?	O	-	-
+35	c'	O	-	-
+36	est	O	-	-
+37	du	O	-	-
+38	n'	O	-	-
+39	importe	O	-	-
+40	quoi	O	-	-
+41	messieurs	O	-	-
+
+# sent_id = M4S41
+# text = Sans action, juste le temps d’une transaction
+1	Sans	O	-	-
+2	action	O	-	-
+3	,	O	-	-
+4	juste	O	-	-
+5	le	O	-	-
+6	temps	O	-	-
+7	d’	O	-	-
+8	une	O	-	-
+9	transaction	O	-	-
+
+# sent_id = 4495
+# text = Allh aykoun m3ak ya kho
+1	Allh	O	-	-
+2	aykoun	O	-	-
+3	m3ak	O	-	-
+4	ya	O	-	-
+5	kho	O	-	-
+
+# sent_id = 4681
+# text = ila rakm 11 wa 8 wmatansach layla 3lwi w3adel imen wa da3ara li nchortoha fi l3alam l3arabi hoho yochkor roho roh chouf ghaza ya sahb camb david chika64@hotmailfr
+1	ila	O	-	-
+2	rakm	O	-	-
+3	11	O	-	-
+4	wa	O	-	-
+5	8	O	-	-
+6	w	O	-	-
+7	matansach	O	-	-
+8	layla	B-PER	-	-
+9	3lwi	I-PER	-	-
+10	w	O	-	-
+11	3adel	B-PER	-	-
+12	imen	I-PER	-	-
+13	wa	O	-	-
+14	da3ara	O	-	-
+15	li	O	-	-
+16	nchortoha	O	-	-
+17	fi	O	-	-
+18	l	O	-	-
+19	3alam	O	-	-
+20	l	O	-	-
+21	3arabi	O	-	-
+22	hoho	O	-	-
+23	yochkor	O	-	-
+24	roho	O	-	-
+25	roh	O	-	-
+26	chouf	O	-	-
+27	ghaza	B-LOC	-	-
+28	ya	O	-	-
+29	sahb	O	-	-
+30	camb	B-LOC	-	-
+31	david	I-LOC	-	-
+32	chika64@hotmailfr	O	-	-
+
+# sent_id = 3093
+# text = wellah ghir lwahed massab ma yahder rebbi ikoun m3a la jeunesse dialna rebi iferraj 3la koul mehtaj
+1	wellah	O	-	-
+2	ghir	O	-	-
+3	l	O	-	-
+4	wahed	O	-	-
+5	massab	O	-	-
+6	ma	O	-	-
+7	yahder	O	-	-
+8	rebbi	O	-	-
+9	ikoun	O	-	-
+10	m3a	O	-	-
+11	la	O	-	-
+12	jeunesse	O	-	-
+13	dialna	O	-	-
+14	rebi	O	-	-
+15	iferraj	O	-	-
+16	3la	O	-	-
+17	koul	O	-	-
+18	mehtaj	O	-	-
+
+# sent_id = 3692
+# text = mince alors hada texte la3alaka bi ghaza ya chorok a part cela lah yahdihoum hadou kofar
+1	mince	O	-	-
+2	alors	O	-	-
+3	hada	O	-	-
+4	texte	O	-	-
+5	la3alaka	O	-	-
+6	bi	O	-	-
+7	ghaza	B-LOC	-	-
+8	ya	O	-	-
+9	chorok	B-ORG	-	-
+10	a	O	-	-
+11	part	O	-	-
+12	cela	O	-	-
+13	lah	O	-	-
+14	yahdihoum	O	-	-
+15	hadou	O	-	-
+16	kofar	O	-	-
+
+# sent_id = 5354
+# text = albarah khawetna 3andhom la chine et alyoum ahna et demain mana3ref chkon habo yaklo le monde c'est des tatar
+1	al	O	-	-
+2	barah	O	-	-
+3	khawetna	O	-	-
+4	3andhom	O	-	-
+5	la	O	-	-
+6	chine	B-LOC	-	-
+7	et	O	-	-
+8	al	O	-	-
+9	youm	O	-	-
+10	ahna	O	-	-
+11	et	O	-	-
+12	demain	O	-	-
+13	mana3ref	O	-	-
+14	chkon	O	-	-
+15	habo	O	-	-
+16	yaklo	O	-	-
+17	le	O	-	-
+18	monde	O	-	-
+19	c'	O	-	-
+20	est	O	-	-
+21	des	O	-	-
+22	tatar	O	-	-
+
+# sent_id = 4625
+# text = dima m3a chawchi
+1	dima	O	-	-
+2	m3a	O	-	-
+3	chawchi	B-PER	-	-
+
+# sent_id = 2802
+# text = 3andou el hak makache football en algerie alors il a bien fait
+1	3andou	O	-	-
+2	el	O	-	-
+3	hak	O	-	-
+4	makache	O	-	-
+5	football	O	-	-
+6	en	O	-	-
+7	algerie	B-LOC	-	-
+8	alors	O	-	-
+9	il	O	-	-
+10	a	O	-	-
+11	bien	O	-	-
+12	fait	O	-	-
+
+# sent_id = 4441
+# text = habesona baloun ma3anedo hata ma3ena fel jazair rire al3ibe
+1	habesona	O	-	-
+2	baloun	O	-	-
+3	ma3anedo	O	-	-
+4	hata	O	-	-
+5	ma3ena	O	-	-
+6	f	O	-	-
+7	el	O	-	-
+8	jazair	B-LOC	-	-
+9	rire	O	-	-
+10	al	O	-	-
+11	3ibe	O	-	-
+
+# sent_id = 4323
+# text = la hawla wa la kowata illa biallah 3aliyo 3adhim (ellahoima ahkin dimaahoum )
+1	la	O	-	-
+2	hawla	O	-	-
+3	wa	O	-	-
+4	la	O	-	-
+5	kowata	O	-	-
+6	illa	O	-	-
+7	bi	O	-	-
+8	allah	O	-	-
+9	3aliyo	O	-	-
+10	3adhim	O	-	-
+11	(	O	-	-
+12	ellahoima	O	-	-
+13	ahkin	O	-	-
+14	dimaahoum	O	-	-
+15	)	O	-	-
+
+# sent_id = M1S9
+# text = Yddebzo yella3bou dima binaathoum yet7abbou, mazel fil bagra ya7albou
+1	Yddebzo	O	-	-
+2	yella3bou	O	-	-
+3	dima	O	-	-
+4	binaathoum	O	-	-
+5	yet7abbou	O	-	-
+6	,	O	-	-
+7	mazel	O	-	-
+8	f	O	-	-
+9	il	O	-	-
+10	bagra	O	-	-
+11	ya7albou	O	-	-
+
+# sent_id = 2519
+# text = belhaj yastahal + q barcelon et placto madhmouna m3a guardiola
+1	belhaj	B-PER	-	-
+2	yastahal	O	-	-
+3	+	O	-	-
+4	q	O	-	-
+5	barcelon	B-LOC	-	-
+6	et	O	-	-
+7	placto	O	-	-
+8	madhmouna	O	-	-
+9	m3a	O	-	-
+10	guardiola	B-PER	-	-
+
+# sent_id = 4675
+# text = lhamdo li ALLAH wa chokro laho wahdah bassah ya wald 3abbas 3lach tabki ya khi ntouma li taklou m3a dib aw tabkiw m3a ra3i aw zid l coca liyah makanch selecto wala hamoud chhal yakhasna nfahmou coca nta3 layhoud aw l usine ta3a fi l Algérie yalzam ytardgoulou ymah wa nokia aussi ta3 layhoud
+1	l	O	-	-
+2	hamdo	O	-	-
+3	li	O	-	-
+4	ALLAH	O	-	-
+5	wa	O	-	-
+6	chokro	O	-	-
+7	laho	O	-	-
+8	wahdah	O	-	-
+9	bassah	O	-	-
+10	ya	O	-	-
+11	wald	O	-	-
+12	3abbas	B-PER	-	-
+13	3lach	O	-	-
+14	tabki	O	-	-
+15	ya	O	-	-
+16	khi	O	-	-
+17	ntouma	O	-	-
+18	li	O	-	-
+19	taklou	O	-	-
+20	m3a	O	-	-
+21	dib	O	-	-
+22	aw	O	-	-
+23	tabkiw	O	-	-
+24	m3a	O	-	-
+25	ra3i	O	-	-
+26	aw	O	-	-
+27	zid	O	-	-
+28	l	O	-	-
+29	coca	B-ORG	-	-
+30	liyah	O	-	-
+31	makanch	O	-	-
+32	selecto	B-ORG	-	-
+33	wala	O	-	-
+34	hamoud	B-ORG	-	-
+35	chhal	O	-	-
+36	yakhasna	O	-	-
+37	nfahmou	O	-	-
+38	coca	B-ORG	-	-
+39	nta3	O	-	-
+40	l	O	-	-
+41	ayhoud	O	-	-
+42	aw	O	-	-
+43	l	O	-	-
+44	usine	O	-	-
+45	ta3a	O	-	-
+46	fi	O	-	-
+47	l	O	-	-
+48	Algérie	B-LOC	-	-
+49	yalzam	O	-	-
+50	ytardgoulou	O	-	-
+51	ymah	O	-	-
+52	wa	O	-	-
+53	nokia	B-ORG	-	-
+54	aussi	O	-	-
+55	ta3	O	-	-
+56	l	O	-	-
+57	ayhoud	O	-	-
+
+# sent_id = M4S28
+# text = Ani sah kamikaz bessah mechni kobay
+1	Ani	O	-	-
+2	sah	O	-	-
+3	kamikaz	O	-	-
+4	bessah	O	-	-
+5	mechni	O	-	-
+6	kobay	O	-	-
+
+# sent_id = 9359
+# text = Rabi m3akom wToute L'AlgerieAyatoullah Alkhomayni howa le futur 2 handball Algerienne
+1	Rabi	O	-	-
+2	m3akom	O	-	-
+3	w	O	-	-
+4	Toute	O	-	-
+5	L'	O	-	-
+6	Algerie	B-LOC	-	-
+7	Ayatoullah	B-PER	-	-
+8	Alkhomayni	I-PER	-	-
+9	howa	O	-	-
+10	le	O	-	-
+11	futur	O	-	-
+12	2	O	-	-
+13	handball	O	-	-
+14	Algerienne	O	-	-
+
+# sent_id = 2520
+# text = makan walou ghir el haf ou la taille ta3 wajhak barcelone anta 3andak figuoura dial championa dianahahahaha
+1	makan	O	-	-
+2	walou	O	-	-
+3	ghir	O	-	-
+4	el	O	-	-
+5	haf	O	-	-
+6	ou	O	-	-
+7	la	O	-	-
+8	taille	O	-	-
+9	ta3	O	-	-
+10	wajhak	O	-	-
+11	barcelone	B-LOC	-	-
+12	anta	O	-	-
+13	3andak	O	-	-
+14	figuoura	O	-	-
+15	dial	O	-	-
+16	championa	O	-	-
+17	diana	O	-	-
+18	hahahaha	O	-	-
+
+# sent_id = 4531
+# text = matebkich ya wlid al kouba al3am aljay attal3ahahahahaha
+1	matebkich	O	-	-
+2	ya	O	-	-
+3	wlid	O	-	-
+4	al	O	-	-
+5	kouba	B-ORG	-	-
+6	al	O	-	-
+7	3am	O	-	-
+8	al	O	-	-
+9	jay	O	-	-
+10	a	O	-	-
+11	ttal3a	O	-	-
+12	hahahahaha	O	-	-
+
+# sent_id = 4566
+# text = fil7ha9ia had natija makhadmatche dzaire matamchioche ghaltine had natija khadmate sentre afriq o tanzania hk homa limrachhine daba 3lache hik kila3bo bi9italia otalbo man llah bache mani nkhorjo 3ad had deux equipe nkhorjo m3ahom bi2a9al l2adrare lahi hfad ossafi
+1	fi	O	-	-
+2	l	O	-	-
+3	7ha9ia	O	-	-
+4	had	O	-	-
+5	natija	O	-	-
+6	makhadmatche	O	-	-
+7	dzaire	B-LOC	-	-
+8	matamchioche	O	-	-
+9	ghaltine	O	-	-
+10	had	O	-	-
+11	natija	O	-	-
+12	khadmate	O	-	-
+13	sentre	B-LOC	-	-
+14	afriq	I-LOC	-	-
+15	o	O	-	-
+16	tanzania	B-LOC	-	-
+17	hk	O	-	-
+18	homa	O	-	-
+19	limrachhine	O	-	-
+20	daba	O	-	-
+21	3lache	O	-	-
+22	hik	O	-	-
+23	ki	O	-	-
+24	la3bo	O	-	-
+25	bi	O	-	-
+26	9italia	O	-	-
+27	o	O	-	-
+28	talbo	O	-	-
+29	man	O	-	-
+30	llah	O	-	-
+31	bache	O	-	-
+32	mani	O	-	-
+33	nkhorjo	O	-	-
+34	3ad	O	-	-
+35	had	O	-	-
+36	deux	O	-	-
+37	equipe	O	-	-
+38	nkhorjo	O	-	-
+39	m3ahom	O	-	-
+40	bi	O	-	-
+41	2a9al	O	-	-
+42	l	O	-	-
+43	2adrare	O	-	-
+44	lahi	O	-	-
+45	hfad	O	-	-
+46	ossafi	O	-	-
+
+# sent_id = M3S18
+# text = b isem al fo9er wela al 9aleb l wela 7ejar
+1	b	O	-	-
+2	isem	O	-	-
+3	al	O	-	-
+4	fo9er	O	-	-
+5	wela	O	-	-
+6	al	O	-	-
+7	9aleb	O	-	-
+8	l	O	-	-
+9	wela	O	-	-
+10	7ejar	O	-	-
+
+# sent_id = 9275
+# text = Est-ce que Rassoul sala llahou 3alayhi wa sellem applique cette bureaucratie? et y a-t-il un khalifa qui mettait des bâtons dans dans roues à ceux que Dieu leur a ouvert les yeux ittaqi Llah ya Ghoulam
+1	Est-	O	-	-
+2	ce	O	-	-
+3	que	O	-	-
+4	Rassoul	B-PER	-	-
+5	sala	O	-	-
+6	llahou	O	-	-
+7	3alayhi	O	-	-
+8	wa	O	-	-
+9	sellem	O	-	-
+10	applique	O	-	-
+11	cette	O	-	-
+12	bureaucratie	O	-	-
+13	?	O	-	-
+14	et	O	-	-
+15	y	O	-	-
+16	a	O	-	-
+17	-t-il	O	-	-
+18	un	O	-	-
+19	khalifa	B-PER	-	-
+20	qui	O	-	-
+21	mettait	O	-	-
+22	des	O	-	-
+23	bâtons	O	-	-
+24	dans	O	-	-
+25	dans	O	-	-
+26	roues	O	-	-
+27	à	O	-	-
+28	ceux	O	-	-
+29	que	O	-	-
+30	Dieu	O	-	-
+31	leur	O	-	-
+32	a	O	-	-
+33	ouvert	O	-	-
+34	les	O	-	-
+35	yeux	O	-	-
+36	ittaqi	O	-	-
+37	Llah	O	-	-
+38	ya	O	-	-
+39	Ghoulam	O	-	-
+
+# sent_id = 4175
+# text = bessah la taille ta3 el prof fort bezzaf bach ta3arfo balli madjatch fel 3kalessah kamel fi la taille
+1	bessah	O	-	-
+2	la	O	-	-
+3	taille	O	-	-
+4	ta3	O	-	-
+5	el	O	-	-
+6	prof	O	-	-
+7	fort	O	-	-
+8	bezzaf	O	-	-
+9	bach	O	-	-
+10	ta3arfo	O	-	-
+11	balli	O	-	-
+12	madjatch	O	-	-
+13	f	O	-	-
+14	el	O	-	-
+15	3kal	O	-	-
+16	essah	O	-	-
+17	kamel	O	-	-
+18	fi	O	-	-
+19	la	O	-	-
+20	taille	O	-	-
+
+# sent_id = 4339
+# text = je suis avec eux lah yl3an had el khabith
+1	je	O	-	-
+2	suis	O	-	-
+3	avec	O	-	-
+4	eux	O	-	-
+5	lah	O	-	-
+6	yl3an	O	-	-
+7	had	O	-	-
+8	el	O	-	-
+9	khabith	O	-	-
+
+# sent_id = 2664
+# text = tat3amarالبيداغوجية بالجامعة المقاعد nchalah ga3 les
+1	tat3amar	O	-	-
+2	البيداغوجية	O	-	-
+3	ب	O	-	-
+4	ال	O	-	-
+5	جامعة	O	-	-
+6	ال	O	-	-
+7	مقاعد	O	-	-
+8	nchalah	O	-	-
+9	ga3	O	-	-
+10	les	O	-	-
+
+# sent_id = 652
+# text = ana m3a sidet raise mais lazem yraje3 we ychof we rah dayer men hawlo
+1	ana	O	-	-
+2	m3a	O	-	-
+3	sidet	O	-	-
+4	raise	O	-	-
+5	mais	O	-	-
+6	lazem	O	-	-
+7	yraje3	O	-	-
+8	we	O	-	-
+9	ychof	O	-	-
+10	we	O	-	-
+11	rah	O	-	-
+12	dayer	O	-	-
+13	men	O	-	-
+14	hawlo	O	-	-
+
+# sent_id = 9358
+# text = ya alah ya moulanaaaa koun m3ana ya alahh
+1	ya	O	-	-
+2	alah	O	-	-
+3	ya	O	-	-
+4	moulanaaaa	O	-	-
+5	koun	O	-	-
+6	m3ana	O	-	-
+7	ya	O	-	-
+8	alahh	O	-	-
+
+# sent_id = M1S8
+# text = Ki neqra fel Journal, kayen la bagarre bin FLN, j'men fou, anyaa khrejt zman
+1	Ki	O	-	-
+2	neqra	O	-	-
+3	f	O	-	-
+4	el	O	-	-
+5	Journal	O	-	-
+6	,	O	-	-
+7	kayen	O	-	-
+8	la	O	-	-
+9	bagarre	O	-	-
+10	bin	O	-	-
+11	FLN	B-ORG	-	-
+12	,	O	-	-
+13	j'	O	-	-
+14	m	O	-	-
+15	en	O	-	-
+16	fou	O	-	-
+17	,	O	-	-
+18	anyaa	O	-	-
+19	khrejt	O	-	-
+20	zman	O	-	-
+
+# sent_id = 3647.1
+# text = ya si الجزائر بلد المليون و نصف المليون شهيد
+1	ya	O	-	-
+2	si	O	-	-
+3	الجزائر	O	-	-
+4	بلد	O	-	-
+5	المليون	O	-	-
+6	و	O	-	-
+7	نصف	O	-	-
+8	المليون	O	-	-
+9	شهيد	O	-	-
+
+# sent_id = 3647.2
+# text = dzair tonfik el mal katir 3ala amtalak 3ala hada la tokati3iha
+1	dzair	B-LOC	-	-
+2	tonfik	O	-	-
+3	el	O	-	-
+4	mal	O	-	-
+5	katir	O	-	-
+6	3ala	O	-	-
+7	amtalak	O	-	-
+8	3ala	O	-	-
+9	hada	O	-	-
+10	la	O	-	-
+11	tokati3iha	O	-	-
+
+# sent_id = 2588
+# text = Khaloda tom et jerry we ghzawiha bayna madem hiya wazira te3 tha9afa intadhiro 3adjab el3odjab
+1	Khaloda	O	-	-
+2	tom	B-PER	-	-
+3	et	O	-	-
+4	jerry	B-PER	-	-
+5	we	O	-	-
+6	ghzawiha	O	-	-
+7	bayna	O	-	-
+8	madem	O	-	-
+9	hiya	O	-	-
+10	wazira	O	-	-
+11	te3	O	-	-
+12	tha9afa	O	-	-
+13	intadhiro	O	-	-
+14	3adjab	O	-	-
+15	el	O	-	-
+16	3odjab	O	-	-
+
+# sent_id = 9321
+# text = rabi m3a elhak wa hfadh khaouatna fi el kazirna
+1	rabi	O	-	-
+2	m3a	O	-	-
+3	el	O	-	-
+4	hak	O	-	-
+5	wa	O	-	-
+6	hfadh	O	-	-
+7	khaouatna	O	-	-
+8	fi	O	-	-
+9	el	O	-	-
+10	kazirna	O	-	-
+
+# sent_id = M3S33
+# text = kan lidayer 4 nesa kol b derga wi gol gal dine katerhom tejik al baraka
+1	kan	O	-	-
+2	li	O	-	-
+3	dayer	O	-	-
+4	4	O	-	-
+5	nesa	O	-	-
+6	kol	O	-	-
+7	b	O	-	-
+8	derga	O	-	-
+9	w	O	-	-
+10	i	O	-	-
+11	gol	O	-	-
+12	gal	O	-	-
+13	dine	O	-	-
+14	katerhom	O	-	-
+15	tejik	O	-	-
+16	al	O	-	-
+17	baraka	O	-	-
+
+# sent_id = 1341
+# text = on vous aime KARIM Ziani bonne continuationet rabi ma3ak nchallah o ma3a l'algérie mon amour
+1	on	O	-	-
+2	vous	O	-	-
+3	aime	O	-	-
+4	KARIM	B-PER	-	-
+5	Ziani	I-PER	-	-
+6	bonne	O	-	-
+7	continuation	O	-	-
+8	et	O	-	-
+9	rabi	O	-	-
+10	ma3ak	O	-	-
+11	nchallah	O	-	-
+12	o	O	-	-
+13	ma3a	O	-	-
+14	l'	O	-	-
+15	algérie	B-LOC	-	-
+16	mon	O	-	-
+17	amour	O	-	-
+
+# sent_id = 3392
+# text = 10 - 0 on a des terain la3ala9a
+1	10	O	-	-
+2	-	O	-	-
+3	0	O	-	-
+4	on	O	-	-
+5	a	O	-	-
+6	des	O	-	-
+7	terain	O	-	-
+8	la3ala9a	O	-	-
+
+# sent_id = 830
+# text = bechikha khayer annaba par ce que faha l'obionse+les suporteur rayhineyhamsou les joeur w khaliwhome 3andhome tika fi rohohem
+1	bechikha	B-PER	-	-
+2	khayer	O	-	-
+3	annaba	B-LOC	-	-
+4	par	O	-	-
+5	ce	O	-	-
+6	que	O	-	-
+7	faha	O	-	-
+8	l'	O	-	-
+9	obionse	O	-	-
+10	+	O	-	-
+11	les	O	-	-
+12	suporteur	O	-	-
+13	rayhine	O	-	-
+14	yhamsou	O	-	-
+15	les	O	-	-
+16	joeur	O	-	-
+17	w	O	-	-
+18	khaliwhome	O	-	-
+19	3andhome	O	-	-
+20	tika	O	-	-
+21	fi	O	-	-
+22	rohohem	O	-	-
+
+# sent_id = 4478
+# text = hada liysa min demokratiya khaly li yrid ysir masihi ysirmatlama ma3moul bih fi lgharb fi ljazeir nas sarou masihiyyin liysa 3an kana3a
+1	hada	O	-	-
+2	liysa	O	-	-
+3	min	O	-	-
+4	demokratiya	O	-	-
+5	khaly	O	-	-
+6	li	O	-	-
+7	yrid	O	-	-
+8	ysir	O	-	-
+9	masihi	O	-	-
+10	ysirmatlama	O	-	-
+11	ma3moul	O	-	-
+12	bih	O	-	-
+13	fi	O	-	-
+14	l	O	-	-
+15	gharb	O	-	-
+16	fi	O	-	-
+17	l	O	-	-
+18	jazeir	B-LOC	-	-
+19	nas	O	-	-
+20	sarou	O	-	-
+21	masihiyyin	O	-	-
+22	liysa	O	-	-
+23	3an	O	-	-
+24	kana3a	O	-	-
+
+# sent_id = M2S28
+# text = les paroles mayfadoch 3andi stok b les cartouche
+1	les	O	-	-
+2	paroles	O	-	-
+3	mayfadoch	O	-	-
+4	3andi	O	-	-
+5	stok	O	-	-
+6	b	O	-	-
+7	les	O	-	-
+8	cartouche	O	-	-
+
+# sent_id = 3470
+# text = bon c po grave douk nab3at equipe yraybouha w tasktoo 3lina ga3
+1	bon	O	-	-
+2	c	O	-	-
+3	po	O	-	-
+4	grave	O	-	-
+5	douk	O	-	-
+6	nab3at	O	-	-
+7	equipe	O	-	-
+8	yraybouha	O	-	-
+9	w	O	-	-
+10	tasktoo	O	-	-
+11	3lina	O	-	-
+12	ga3	O	-	-
+
+# sent_id = 3371
+# text = rabi ma3akom ya ghaza fala tantadirou les egyptiens an yossa3idonakomallah akbar
+1	rabi	O	-	-
+2	ma3akom	O	-	-
+3	ya	O	-	-
+4	ghaza	B-LOC	-	-
+5	fala	O	-	-
+6	tantadirou	O	-	-
+7	les	O	-	-
+8	egyptiens	O	-	-
+9	an	O	-	-
+10	yossa3idonakom	O	-	-
+11	allah	O	-	-
+12	akbar	O	-	-
+
+# sent_id = 778
+# text = ellah yen3el hed ness ce sont des vrais animaux wallah ma3and'homch 9alb
+1	ellah	O	-	-
+2	yen3el	O	-	-
+3	hed	O	-	-
+4	ness	O	-	-
+5	ce	O	-	-
+6	sont	O	-	-
+7	des	O	-	-
+8	vrais	O	-	-
+9	animaux	O	-	-
+10	wallah	O	-	-
+11	ma3and'homch	O	-	-
+12	9alb	O	-	-
+
+# sent_id = 4413
+# text = wallah elmissamih kebir bas lazim chwiyat wa2t 3achen ninssa wa tidawa el jirah viva algerie
+1	wallah	O	-	-
+2	el	O	-	-
+3	missamih	O	-	-
+4	kebir	O	-	-
+5	bas	O	-	-
+6	lazim	O	-	-
+7	chwiyat	O	-	-
+8	wa2t	O	-	-
+9	3achen	O	-	-
+10	ninssa	O	-	-
+11	wa	O	-	-
+12	tidawa	O	-	-
+13	el	O	-	-
+14	jirah	O	-	-
+15	viva	O	-	-
+16	algerie	B-LOC	-	-
+
+# sent_id = M4S89
+# text = Kount qader na3melha bessah la ma habithach
+1	Kount	O	-	-
+2	qader	O	-	-
+3	na3melha	O	-	-
+4	bessah	O	-	-
+5	la	O	-	-
+6	ma	O	-	-
+7	habithach	O	-	-
+
+# sent_id = 4641
+# text = rana m3a ghana 3la khatr ghir hya el balad elifriqi et rabhat usa
+1	rana	O	-	-
+2	m3a	O	-	-
+3	ghana	B-LOC	-	-
+4	3la	O	-	-
+5	khatr	O	-	-
+6	ghir	O	-	-
+7	hya	O	-	-
+8	el	O	-	-
+9	balad	O	-	-
+10	el	O	-	-
+11	ifriqi	O	-	-
+12	et	O	-	-
+13	rabhat	O	-	-
+14	usa	B-LOC	-	-
+
+# sent_id = 3444
+# text = bien ki wallaw les egyptiens m3ana le100ciel j'espere narbhou bark 123 viiiiiiiva l'algerieee
+1	bien	O	-	-
+2	ki	O	-	-
+3	wallaw	O	-	-
+4	les	O	-	-
+5	egyptiens	O	-	-
+6	m3ana	O	-	-
+7	l	O	-	-
+8	e100ciel	O	-	-
+9	j'	O	-	-
+10	espere	O	-	-
+11	narbhou	O	-	-
+12	bark	O	-	-
+13	123	O	-	-
+14	viiiiiiiva	O	-	-
+15	l'	O	-	-
+16	algerieee	B-LOC	-	-
+
+# sent_id = 3228
+# text = il faut un jugement trés sévére pour ce genre d'acteminimun la prison 15 ans + 3adab allah
+1	il	O	-	-
+2	faut	O	-	-
+3	un	O	-	-
+4	jugement	O	-	-
+5	trés	O	-	-
+6	sévére	O	-	-
+7	pour	O	-	-
+8	ce	O	-	-
+9	genre	O	-	-
+10	d'	O	-	-
+11	acte	O	-	-
+12	minimun	O	-	-
+13	la	O	-	-
+14	prison	O	-	-
+15	15	O	-	-
+16	ans	O	-	-
+17	+	O	-	-
+18	3adab	O	-	-
+19	allah	O	-	-
+
+# sent_id = 4016
+# text = mais je vous dis une chose tout ça est
+1	mais	O	-	-
+2	je	O	-	-
+3	vous	O	-	-
+4	dis	O	-	-
+5	une	O	-	-
+6	chose	O	-	-
+7	tout	O	-	-
+8	ça	O	-	-
+9	est	O	-	-
+
+# sent_id = 4240
+# text = wallah haram makontch metwak3a haka kafirine ki elmordha ki tobba je desolis sa pour
+1	wallah	O	-	-
+2	haram	O	-	-
+3	makontch	O	-	-
+4	metwak3a	O	-	-
+5	haka	O	-	-
+6	kafirine	O	-	-
+7	ki	O	-	-
+8	el	O	-	-
+9	mordha	O	-	-
+10	ki	O	-	-
+11	tobba	O	-	-
+12	je	O	-	-
+13	desolis	O	-	-
+14	sa	O	-	-
+15	pour	O	-	-
+
+# sent_id = M3S20
+# text = welaw kif 9orayche yadefno f trab
+1	welaw	O	-	-
+2	kif	O	-	-
+3	9orayche	O	-	-
+4	yadefno	O	-	-
+5	f	O	-	-
+6	trab	O	-	-
+
+# sent_id = 895
+# text = les algerien dima kamikaze hya goulou m3aya vive l'algerie makra fe elghaiarine
+1	les	O	-	-
+2	algerien	O	-	-
+3	dima	O	-	-
+4	kamikaze	O	-	-
+5	hya	O	-	-
+6	goulou	O	-	-
+7	m3aya	O	-	-
+8	vive	O	-	-
+9	l'	O	-	-
+10	algerie	B-LOC	-	-
+11	makra	O	-	-
+12	fe	O	-	-
+13	el	O	-	-
+14	ghaiarine	O	-	-
+
+# sent_id = 4596
+# text = 3- hada complo darohlah khatar homa maysalouch 3la hadou swalah kifah rifih howa darat haka braw ychawhoulah som3a ta3ah
+1	3	O	-	-
+2	-	O	-	-
+3	hada	O	-	-
+4	complo	O	-	-
+5	darohlah	O	-	-
+6	khatar	O	-	-
+7	homa	O	-	-
+8	maysalouch	O	-	-
+9	3la	O	-	-
+10	hadou	O	-	-
+11	swalah	O	-	-
+12	kifah	O	-	-
+13	rifih	O	-	-
+14	howa	O	-	-
+15	darat	O	-	-
+16	haka	O	-	-
+17	braw	O	-	-
+18	ychawhoulah	O	-	-
+19	som3a	O	-	-
+20	ta3ah	O	-	-
+
+# sent_id = 3934
+# text = alhamdulillah ya rabichukran rawrawa et saadanw nkul lasahafa ta3na khlu saadan yakhdamrabah wla khasar hna m3ak ya saadan
+1	alhamdulillah	O	-	-
+2	ya	O	-	-
+3	rabi	O	-	-
+4	chukran	O	-	-
+5	rawrawa	B-PER	-	-
+6	et	O	-	-
+7	saadan	B-PER	-	-
+8	w	O	-	-
+9	nkul	O	-	-
+10	l	O	-	-
+11	a	O	-	-
+12	sahafa	O	-	-
+13	ta3na	O	-	-
+14	khlu	O	-	-
+15	saadan	B-PER	-	-
+16	yakhdam	O	-	-
+17	rabah	O	-	-
+18	wla	O	-	-
+19	khasar	O	-	-
+20	hna	O	-	-
+21	m3ak	O	-	-
+22	ya	O	-	-
+23	saadan	B-PER	-	-
+
+# sent_id = 4456
+# text = nchallah tachfaw ga3 wan3awdo susspense de lané passsser
+1	nchallah	O	-	-
+2	tachfaw	O	-	-
+3	ga3	O	-	-
+4	wa	O	-	-
+5	n3awdo	O	-	-
+6	susspense	O	-	-
+7	de	O	-	-
+8	l	O	-	-
+9	ané	O	-	-
+10	passsser	O	-	-
+
+# sent_id = 745
+# text = wach rakoum habbin n reveilloniw b lehlib had l3am??? hetta lehlib makach?? C est vraiment pas juste
+1	wach	O	-	-
+2	rakoum	O	-	-
+3	habbin	O	-	-
+4	n	O	-	-
+5	reveilloniw	O	-	-
+6	b	O	-	-
+7	le	O	-	-
+8	hlib	O	-	-
+9	had	O	-	-
+10	l	O	-	-
+11	3am	O	-	-
+12	???	O	-	-
+13	hetta	O	-	-
+14	le	O	-	-
+15	hlib	O	-	-
+16	makach	O	-	-
+17	??	O	-	-
+18	C	O	-	-
+19	est	O	-	-
+20	vraiment	O	-	-
+21	pas	O	-	-
+22	juste	O	-	-
+
+# sent_id = 4430
+# text = on veut plus de contact avec les egyptiens3afouna
+1	on	O	-	-
+2	veut	O	-	-
+3	plus	O	-	-
+4	de	O	-	-
+5	contact	O	-	-
+6	avec	O	-	-
+7	les	O	-	-
+8	egyptiens	O	-	-
+9	3afouna	O	-	-
+
+# sent_id = 1897
+# text = wallah qu'il meriteje l'ecouté depuis que j'eté petite fillerabi itawal 3amrou
+1	wallah	O	-	-
+2	qu'	O	-	-
+3	il	O	-	-
+4	merite	O	-	-
+5	je	O	-	-
+6	l'	O	-	-
+7	ecouté	O	-	-
+8	depuis	O	-	-
+9	que	O	-	-
+10	j'	O	-	-
+11	eté	O	-	-
+12	petite	O	-	-
+13	fille	O	-	-
+14	rabi	O	-	-
+15	itawal	O	-	-
+16	3amrou	O	-	-
+
+# sent_id = 3574
+# text = wellah ma tedirou wallou j sui sur belli terabhou l urougway w tekhassrou m3a la zambie allahoumma arina fihi assouaa khatimaa ya rab ya rab
+1	wellah	O	-	-
+2	ma	O	-	-
+3	tedirou	O	-	-
+4	wallou	O	-	-
+5	j	O	-	-
+6	sui	O	-	-
+7	sur	O	-	-
+8	belli	O	-	-
+9	terabhou	O	-	-
+10	l	O	-	-
+11	urougway	B-LOC	-	-
+12	w	O	-	-
+13	tekhassrou	O	-	-
+14	m3a	O	-	-
+15	la	O	-	-
+16	zambie	B-LOC	-	-
+17	allahoumma	O	-	-
+18	arina	O	-	-
+19	fihi	O	-	-
+20	assouaa	O	-	-
+21	khatimaa	O	-	-
+22	ya	O	-	-
+23	rab	O	-	-
+24	ya	O	-	-
+25	rab	O	-	-
+
+# sent_id = 72
+# text = bezaf 3alik djabour
+1	bezaf	O	-	-
+2	3alik	O	-	-
+3	djabour	B-PER	-	-
+
+# sent_id = 4454
+# text = ya3tikome essaha w rabi yehfadkom men el 3ayne w nchalahe kalifier amine ya rabi
+1	ya3tikome	O	-	-
+2	e	O	-	-
+3	ssaha	O	-	-
+4	w	O	-	-
+5	rabi	O	-	-
+6	yehfadkom	O	-	-
+7	men	O	-	-
+8	el	O	-	-
+9	3ayne	O	-	-
+10	w	O	-	-
+11	nchalahe	O	-	-
+12	kalifier	O	-	-
+13	amine	O	-	-
+14	ya	O	-	-
+15	rabi	O	-	-
+
+# sent_id = 4520
+# text = 3andou hakee hamasse hiaa dalimaaa ces sa la vèrètè
+1	3andou	O	-	-
+2	hakee	O	-	-
+3	hamasse	B-ORG	-	-
+4	hiaa	O	-	-
+5	dalimaaa	O	-	-
+6	c	O	-	-
+7	es	O	-	-
+8	sa	O	-	-
+9	la	O	-	-
+10	vèrètè	O	-	-
+
+# sent_id = 3966
+# text = wallah had ennaas manejemch notlobloblhom elhidaya puisque elhidaya notolboha limosslim 3assi mais hado koffar notolbo rabbi yehraghoum
+1	wallah	O	-	-
+2	had	O	-	-
+3	e	O	-	-
+4	nnaas	O	-	-
+5	manejemch	O	-	-
+6	notlobloblhom	O	-	-
+7	el	O	-	-
+8	hidaya	O	-	-
+9	puisque	O	-	-
+10	el	O	-	-
+11	hidaya	O	-	-
+12	notolboha	O	-	-
+13	li	O	-	-
+14	mosslim	O	-	-
+15	3assi	O	-	-
+16	mais	O	-	-
+17	hado	O	-	-
+18	koffar	O	-	-
+19	notolbo	O	-	-
+20	rabbi	O	-	-
+21	yehraghoum	O	-	-
+
+# sent_id = 2654
+# text = zidan machi rajal hamdoulilah ma3andnach des joueurs kima houa si non ybahdlo bina w bel islam
+1	zidan	B-PER	-	-
+2	machi	O	-	-
+3	rajal	O	-	-
+4	hamdoulilah	O	-	-
+5	ma3andnach	O	-	-
+6	des	O	-	-
+7	joueurs	O	-	-
+8	kima	O	-	-
+9	houa	O	-	-
+10	si	O	-	-
+11	non	O	-	-
+12	ybahdlo	O	-	-
+13	bina	O	-	-
+14	w	O	-	-
+15	b	O	-	-
+16	el	O	-	-
+17	islam	O	-	-
+
+# sent_id = 1801.1
+# text = star rabbi c non lka3bét lemleh li 3anda izidou iroho!!!!
+1	star	O	-	-
+2	rabbi	O	-	-
+3	c	O	-	-
+4	non	O	-	-
+5	l	O	-	-
+6	ka3bét	O	-	-
+7	le	O	-	-
+8	mleh	O	-	-
+9	li	O	-	-
+10	3anda	O	-	-
+11	izidou	O	-	-
+12	iroho	O	-	-
+13	!!!!	O	-	-
+
+# sent_id = 1801.2
+# text = hamdoullah 3ala salama tout passe
+1	hamdoullah	O	-	-
+2	3ala	O	-	-
+3	salama	O	-	-
+4	tout	O	-	-
+5	passe	O	-	-
+
+# sent_id = 4623
+# text = hhhhhhhhhhh wallah 3andek al7a9 khouya nass rahoum tal3in fi sma w 7na na7asboulhoum
+1	hhhhhhhhhhh	O	-	-
+2	wallah	O	-	-
+3	3andek	O	-	-
+4	al	O	-	-
+5	7a9	O	-	-
+6	khouya	O	-	-
+7	nass	O	-	-
+8	rahoum	O	-	-
+9	tal3in	O	-	-
+10	fi	O	-	-
+11	sma	O	-	-
+12	w	O	-	-
+13	7na	O	-	-
+14	na7asboulhoum	O	-	-
+
+# sent_id = 942
+# text = aww hna 3andna championnat de foot fi lalgerie hadi jdida ana kounte hassabe kayane rigby bessahe foot ma3labaliche
+1	aww	O	-	-
+2	hna	O	-	-
+3	3andna	O	-	-
+4	championnat	O	-	-
+5	de	O	-	-
+6	foot	O	-	-
+7	fi	O	-	-
+8	l	O	-	-
+9	algerie	B-LOC	-	-
+10	hadi	O	-	-
+11	jdida	O	-	-
+12	ana	O	-	-
+13	kounte	O	-	-
+14	hassabe	O	-	-
+15	kayane	O	-	-
+16	rigby	O	-	-
+17	bessahe	O	-	-
+18	foot	O	-	-
+19	ma3labaliche	O	-	-
+
+# sent_id = 2201
+# text = salam chekh saaden brabi nchlah nerebho w nkaliei w rana m3ak rabeh w la khaser
+1	salam	O	-	-
+2	chekh	O	-	-
+3	saaden	B-PER	-	-
+4	b	O	-	-
+5	rabi	O	-	-
+6	nchlah	O	-	-
+7	nerebho	O	-	-
+8	w	O	-	-
+9	nkaliei	O	-	-
+10	w	O	-	-
+11	rana	O	-	-
+12	m3ak	O	-	-
+13	rabeh	O	-	-
+14	w	O	-	-
+15	la	O	-	-
+16	khaser	O	-	-
+
+# sent_id = 4436
+# text = nchalah yarabi natal3o D1 w l3adyan w lkhayan yba3dou lhamri vive MCO a la vie a la mort
+1	nchalah	O	-	-
+2	ya	O	-	-
+3	rabi	O	-	-
+4	natal3o	O	-	-
+5	D1	O	-	-
+6	w	O	-	-
+7	l	O	-	-
+8	3adyan	O	-	-
+9	w	O	-	-
+10	l	O	-	-
+11	khayan	O	-	-
+12	yba3dou	O	-	-
+13	lhamri	B-PER	-	-
+14	vive	O	-	-
+15	MCO	B-ORG	-	-
+16	a	O	-	-
+17	la	O	-	-
+18	vie	O	-	-
+19	a	O	-	-
+20	la	O	-	-
+21	mort	O	-	-
+
+# sent_id = 86
+# text = ya lmasrawi el3abe ba3ide b indjazatakom vive l algeriaaaa
+1	ya	O	-	-
+2	l	O	-	-
+3	masrawi	O	-	-
+4	el3abe	O	-	-
+5	ba3ide	O	-	-
+6	b	O	-	-
+7	indjazatakom	O	-	-
+8	vive	O	-	-
+9	l	O	-	-
+10	algeriaaaa	B-LOC	-	-
+
+# sent_id = 2429
+# text = Attention il faut pas leur faire confiance ils parle comme sa juste pour tomper EN bal3atiya
+1	Attention	O	-	-
+2	il	O	-	-
+3	faut	O	-	-
+4	pas	O	-	-
+5	leur	O	-	-
+6	faire	O	-	-
+7	confiance	O	-	-
+8	ils	O	-	-
+9	parle	O	-	-
+10	comme	O	-	-
+11	sa	O	-	-
+12	juste	O	-	-
+13	pour	O	-	-
+14	tomper	O	-	-
+15	EN	O	-	-
+16	bal3atiya	O	-	-
+
+# sent_id = 1520
+# text = hawddi maalich la brawww 100000000 haja balek rabbi yahdihom we ysegmouna bledna li 3awjouha
+1	hawddi	O	-	-
+2	maalich	O	-	-
+3	la	O	-	-
+4	brawww	O	-	-
+5	100000000	O	-	-
+6	haja	O	-	-
+7	balek	O	-	-
+8	rabbi	O	-	-
+9	yahdihom	O	-	-
+10	we	O	-	-
+11	ysegmouna	O	-	-
+12	bledna	O	-	-
+13	li	O	-	-
+14	3awjouha	O	-	-
+
+# sent_id = M4S11
+# text = Manrouhch nal3abha kima ydirou el hafafa
+1	Manrouhch	O	-	-
+2	nal3abha	O	-	-
+3	kima	O	-	-
+4	ydirou	O	-	-
+5	el	O	-	-
+6	hafafa	O	-	-
+
+# sent_id = 4444
+# text = ngoulou l si rawrawa csc li makch habha tarbeh rahi rabhat 3la khatar 3andha 4milion sanfour wagafe 3liha
+1	ngoulou	O	-	-
+2	l	O	-	-
+3	si	O	-	-
+4	rawrawa	B-PER	-	-
+5	csc	B-ORG	-	-
+6	li	O	-	-
+7	makch	O	-	-
+8	habha	O	-	-
+9	tarbeh	O	-	-
+10	rahi	O	-	-
+11	rabhat	O	-	-
+12	3la	O	-	-
+13	khatar	O	-	-
+14	3andha	O	-	-
+15	4	O	-	-
+16	milion	O	-	-
+17	sanfour	B-PER	-	-
+18	wagafe	O	-	-
+19	3liha	O	-	-
+
+# sent_id = 4535
+# text = salam wallah dar mlih sadan lazem ydir haka bach yakhdou al ray ou wahed marah yal3ab 3la al 3lam ga3 bihoum chkara alor lazep yahtarmouh ou loukan maydirch haka wahed maykhaf menouhada farik rayeh mondyalisst machi championat nta3 dzayer ou ana m3a sadan ou ay la3eb myahtaremch ythawaz yaloukan ykoun zianibougera neport
+1	salam	O	-	-
+2	wallah	O	-	-
+3	dar	O	-	-
+4	mlih	O	-	-
+5	sadan	B-PER	-	-
+6	lazem	O	-	-
+7	ydir	O	-	-
+8	haka	O	-	-
+9	bach	O	-	-
+10	yakhdou	O	-	-
+11	al	O	-	-
+12	ray	O	-	-
+13	ou	O	-	-
+14	wahed	O	-	-
+15	marah	O	-	-
+16	yal3ab	O	-	-
+17	3la	O	-	-
+18	al	O	-	-
+19	3lam	O	-	-
+20	ga3	O	-	-
+21	bihoum	O	-	-
+22	chkara	O	-	-
+23	alor	O	-	-
+24	lazep	O	-	-
+25	yahtarmouh	O	-	-
+26	ou	O	-	-
+27	loukan	O	-	-
+28	maydirch	O	-	-
+29	haka	O	-	-
+30	wahed	O	-	-
+31	maykhaf	O	-	-
+32	menou	O	-	-
+33	hada	O	-	-
+34	farik	O	-	-
+35	rayeh	O	-	-
+36	mondyalisst	O	-	-
+37	machi	O	-	-
+38	championat	O	-	-
+39	nta3	O	-	-
+40	dzayer	B-LOC	-	-
+41	ou	O	-	-
+42	ana	O	-	-
+43	m3a	O	-	-
+44	sadan	B-PER	-	-
+45	ou	O	-	-
+46	ay	O	-	-
+47	la3eb	O	-	-
+48	myahtaremch	O	-	-
+49	ythawaz	O	-	-
+50	yaloukan	O	-	-
+51	ykoun	O	-	-
+52	ziani	B-PER	-	-
+53	bougera	I-PER	-	-
+54	n	O	-	-
+55	eport	O	-	-
+
+# sent_id = 105
+# text = l algerie tu reste toujour mon beau pays algeriens algeriennes wallah ghir 3aib 3lina je n arrive pas a comprendre a ce que l algerie a ete cree par bouteflika l algerie kanete min bakri elle existe depuis des 1000 d annee wallah ghir 3aib 3lina on dirai ma3endnach rdjalallah yerhamkoum ya chouhada
+1	l	O	-	-
+2	algerie	B-LOC	-	-
+3	tu	O	-	-
+4	reste	O	-	-
+5	toujour	O	-	-
+6	mon	O	-	-
+7	beau	O	-	-
+8	pays	O	-	-
+9	algeriens	O	-	-
+10	algeriennes	O	-	-
+11	wallah	O	-	-
+12	ghir	O	-	-
+13	3aib	O	-	-
+14	3lina	O	-	-
+15	je	O	-	-
+16	n	O	-	-
+17	arrive	O	-	-
+18	pas	O	-	-
+19	a	O	-	-
+20	comprendre	O	-	-
+21	a	O	-	-
+22	ce	O	-	-
+23	que	O	-	-
+24	l	O	-	-
+25	algerie	B-LOC	-	-
+26	a	O	-	-
+27	ete	O	-	-
+28	cree	O	-	-
+29	par	O	-	-
+30	bouteflika	B-PER	-	-
+31	l	O	-	-
+32	algerie	B-LOC	-	-
+33	kanete	O	-	-
+34	min	O	-	-
+35	bakri	O	-	-
+36	elle	O	-	-
+37	existe	O	-	-
+38	depuis	O	-	-
+39	des	O	-	-
+40	1000	O	-	-
+41	d	O	-	-
+42	annee	O	-	-
+43	wallah	O	-	-
+44	ghir	O	-	-
+45	3aib	O	-	-
+46	3lina	O	-	-
+47	on	O	-	-
+48	dirai	O	-	-
+49	ma3endnach	O	-	-
+50	rdjal	O	-	-
+51	allah	O	-	-
+52	yerhamkoum	O	-	-
+53	ya	O	-	-
+54	chouhada	O	-	-
+
+# sent_id = 4453
+# text = hada kach wahed jab sel3a jdida ta3 les parabol el les clim
+1	hada	O	-	-
+2	kach	O	-	-
+3	wahed	O	-	-
+4	jab	O	-	-
+5	sel3a	O	-	-
+6	jdida	O	-	-
+7	ta3	O	-	-
+8	les	O	-	-
+9	parabol	O	-	-
+10	el	O	-	-
+11	les	O	-	-
+12	clim	O	-	-
+
+# sent_id = 4230
+# text = IL est connu ce camélion! yakel m3a edhib yebki m3a erra3i
+1	IL	O	-	-
+2	est	O	-	-
+3	connu	O	-	-
+4	ce	O	-	-
+5	camélion	O	-	-
+6	!	O	-	-
+7	yakel	O	-	-
+8	m3a	O	-	-
+9	e	O	-	-
+10	dhib	O	-	-
+11	yebki	O	-	-
+12	m3a	O	-	-
+13	e	O	-	-
+14	rra3i	O	-	-
+
+# sent_id = M2S58
+# text = nda7i rou7i meme lakan wlad leklab
+1	nda7i	O	-	-
+2	rou7i	O	-	-
+3	meme	O	-	-
+4	lakan	O	-	-
+5	wlad	O	-	-
+6	le	O	-	-
+7	klab	O	-	-
+
+# sent_id = 826
+# text = ui pr le comtr nm 22 ta raison dork 3anaba tat3amer b csc khlate 3lihoume loukane yakhasrouuuuu \ natmana haja wahda li sra m3a egypt mayzidch yatkarar m3a le maroc
+1	ui	O	-	-
+2	pr	O	-	-
+3	le	O	-	-
+4	comtr	O	-	-
+5	nm	O	-	-
+6	22	O	-	-
+7	t	O	-	-
+8	a	O	-	-
+9	raison	O	-	-
+10	dork	O	-	-
+11	3anaba	B-LOC	-	-
+12	tat3amer	O	-	-
+13	b	O	-	-
+14	csc	B-ORG	-	-
+15	khlate	O	-	-
+16	3lihoume	O	-	-
+17	loukane	O	-	-
+18	yakhasrouuuuu	O	-	-
+19	\	O	-	-
+20	natmana	O	-	-
+21	haja	O	-	-
+22	wahda	O	-	-
+23	li	O	-	-
+24	sra	O	-	-
+25	m3a	O	-	-
+26	egypt	B-LOC	-	-
+27	mayzidch	O	-	-
+28	yatkarar	O	-	-
+29	m3a	O	-	-
+30	le	O	-	-
+31	maroc	B-LOC	-	-
+
+# sent_id = 3485
+# text = mzia ma l3abtouche m3a ahly du caire
+1	mzia	O	-	-
+2	ma	O	-	-
+3	l3abtouche	O	-	-
+4	m3a	O	-	-
+5	ahly	B-ORG	-	-
+6	du	O	-	-
+7	caire	B-LOC	-	-
+
