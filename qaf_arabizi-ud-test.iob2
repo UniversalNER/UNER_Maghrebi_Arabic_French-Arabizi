@@ -83,14 +83,14 @@
 53	amcho	O	-	-
 54	tobo	O	-	-
 55	ila	O	-	-
-56	allah	O	-	-
-57	allah	O	-	-
+56	allah	B-PER	-	-
+57	allah	B-PER	-	-
 58	yahdina	O	-	-
 59	wa	O	-	-
 60	iyakom	O	-	-
 61	amin	O	-	-
 62	ya	O	-	-
-63	rabi	O	-	-
+63	rabi	B-PER	-	-
 
 # sent_id = 913
 # text = il a raison puisque la venir dyalo avant tout yjiboh yel3ab un matche et yhawzoh
@@ -137,7 +137,7 @@
 
 # sent_id = 2060
 # text = allah yahafdak w ykhalika lina ya Mr le président w tahia bouteflika w rana m3ak
-1	allah	O	-	-
+1	allah	B-PER	-	-
 2	yahafdak	O	-	-
 3	w	O	-	-
 4	ykhalika	O	-	-
@@ -180,7 +180,7 @@
 5	nchalah	O	-	-
 6	njibouha	O	-	-
 7	w	O	-	-
-8	rabi	O	-	-
+8	rabi	B-PER	-	-
 9	m3akom	O	-	-
 
 # sent_id = 4599
@@ -227,7 +227,7 @@
 1	allez	O	-	-
 2	les	O	-	-
 3	fenecs	B-ORG	-	-
-4	rabi	O	-	-
+4	rabi	B-PER	-	-
 5	m3akoum	O	-	-
 
 # sent_id = 2535
@@ -242,13 +242,13 @@
 
 # sent_id = 4494
 # text = allah yaj3alha takhfif edounoubwellah ychafik
-1	allah	O	-	-
+1	allah	B-PER	-	-
 2	yaj3alha	O	-	-
 3	takhfif	O	-	-
 4	e	O	-	-
 5	dounoub	O	-	-
 6	w	O	-	-
-7	ellah	O	-	-
+7	ellah	B-PER	-	-
 8	ychafik	O	-	-
 
 # sent_id = M2S43
@@ -340,7 +340,7 @@
 7	là	O	-	-
 8	et	O	-	-
 9	que	O	-	-
-10	dieu	O	-	-
+10	dieu	B-PER	-	-
 11	accepte	O	-	-
 12	sa	O	-	-
 13	omra	O	-	-
@@ -349,7 +349,7 @@
 16	est	O	-	-
 17	vriment	O	-	-
 18	courageuse	O	-	-
-19	rabi	O	-	-
+19	rabi	B-PER	-	-
 20	é	O	-	-
 21	koune	O	-	-
 22	m3aha	O	-	-
@@ -389,7 +389,7 @@
 4	tout	O	-	-
 5	d'	O	-	-
 6	adord	O	-	-
-7	ALLAH	O	-	-
+7	ALLAH	B-PER	-	-
 8	avant	O	-	-
 9	de	O	-	-
 10	ringuauler	O	-	-
@@ -421,7 +421,7 @@
 
 # sent_id = 1940
 # text = allah ghaleb c tous ki nous reste !!! wa3leche ihoufouna makan lakhedma lat3ame!!!!allah yehdii houkoumttna
-1	allah	O	-	-
+1	allah	B-PER	-	-
 2	ghaleb	O	-	-
 3	c	O	-	-
 4	tous	O	-	-
@@ -437,7 +437,7 @@
 14	la	O	-	-
 15	t3ame	O	-	-
 16	!!!!	O	-	-
-17	allah	O	-	-
+17	allah	B-PER	-	-
 18	yehdii	O	-	-
 19	houkoumttna	O	-	-
 
@@ -741,7 +741,7 @@
 6	freres	O	-	-
 7	algerien	O	-	-
 8	tbark	O	-	-
-9	lah	O	-	-
+9	lah	B-PER	-	-
 10	3likom	O	-	-
 
 # sent_id = 3781
@@ -796,7 +796,7 @@
 36	ri	O	-	-
 37	tzid	O	-	-
 38	tes3ab	O	-	-
-39	allah	O	-	-
+39	allah	B-PER	-	-
 40	yjib	O	-	-
 41	l	O	-	-
 42	khir	O	-	-
@@ -860,7 +860,7 @@
 
 # sent_id = 4406
 # text = rabi yastar m3a english ou marican
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	yastar	O	-	-
 3	m3a	O	-	-
 4	english	O	-	-
@@ -881,7 +881,7 @@
 
 # sent_id = 1854
 # text = rabi m3akome ila hatmcho bnayatkome parce que mol nia yatla3 ki la3lame allez les verts bonne chance rabi m3akom w rana m3akom jusqu'à la mort
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	m3akome	O	-	-
 3	ila	O	-	-
 4	hatmcho	O	-	-
@@ -899,7 +899,7 @@
 16	verts	B-ORG	-	-
 17	bonne	O	-	-
 18	chance	O	-	-
-19	rabi	O	-	-
+19	rabi	B-PER	-	-
 20	m3akom	O	-	-
 21	w	O	-	-
 22	rana	O	-	-
@@ -910,11 +910,11 @@
 
 # sent_id = 3479
 # text = alah ysahelkoum nchllh w rabi m3akoum w maykoun ghi lkhir nchallh bon chance pour tt le monde
-1	alah	O	-	-
+1	alah	B-PER	-	-
 2	ysahelkoum	O	-	-
 3	nchllh	O	-	-
 4	w	O	-	-
-5	rabi	O	-	-
+5	rabi	B-PER	-	-
 6	m3akoum	O	-	-
 7	w	O	-	-
 8	maykoun	O	-	-
@@ -932,7 +932,7 @@
 # sent_id = 4473
 # text = hsbiya lah wa ni3ma wakil fi dawlatina nkifach sayfi ta3tolo melyar ou hada meskin ma3andoch bach yachri khobza anchalah yakhsroga3 li match
 1	hsbiya	O	-	-
-2	lah	O	-	-
+2	lah	B-PER	-	-
 3	wa	O	-	-
 4	ni3ma	O	-	-
 5	wakil	O	-	-
@@ -998,7 +998,7 @@
 
 # sent_id = 9324
 # text = Rabi y3awen kawetna twanssa rana net3almou menkoum
-1	Rabi	O	-	-
+1	Rabi	B-PER	-	-
 2	y3awen	O	-	-
 3	kawetna	O	-	-
 4	twanssa	O	-	-
@@ -1047,7 +1047,7 @@
 
 # sent_id = 4568
 # text = rabi yedj3al had el 3am 3am khir 3ala el djazair Yarabi
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	yedj3al	O	-	-
 3	had	O	-	-
 4	el	O	-	-
@@ -1058,7 +1058,7 @@
 9	el	O	-	-
 10	djazair	B-LOC	-	-
 11	Ya	O	-	-
-12	rabi	O	-	-
+12	rabi	B-PER	-	-
 
 # sent_id = 9335
 # text = vive l'algerie rana m3akoum ya moharibiy sahraa ya afnak m3ak ya lkhadra m3ak ya dzayer diri hala
@@ -1135,7 +1135,7 @@
 
 # sent_id = 4692
 # text = elah yarhem dhahaya el irhab el hamadji ha dhou houma erdjal fi beladi ahhhhhh b elahra 3and boutef je pose un simple question est ce que un couchon comme ce la il peut vivre avec nous dans notre societe????? welahi manamenkoume ila goltou oui par ce que la solution d'extermine hadhou el mahkloukate
-1	elah	O	-	-
+1	elah	B-PER	-	-
 2	yarhem	O	-	-
 3	dhahaya	O	-	-
 4	el	O	-	-
@@ -1233,29 +1233,29 @@
 
 # sent_id = 4487
 # text = Allahouma achfi akhana rayane Allahouma khafif anhou Allahouma zidhou sabran Allahouma arziqhou el kafa oua al 3affaf Allahouma arzouq ahlahou al sebr Allahouma 3adjil bi chiffaihi
-1	Allahouma	O	-	-
+1	Allahouma	B-PER	-	-
 2	achfi	O	-	-
 3	akhana	O	-	-
 4	rayane	B-PER	-	-
-5	Allahouma	O	-	-
+5	Allahouma	B-PER	-	-
 6	khafif	O	-	-
 7	anhou	O	-	-
-8	Allahouma	O	-	-
+8	Allahouma	B-PER	-	-
 9	zidhou	O	-	-
 10	sabran	O	-	-
-11	Allahouma	O	-	-
+11	Allahouma	B-PER	-	-
 12	arziqhou	O	-	-
 13	el	O	-	-
 14	kafa	O	-	-
 15	oua	O	-	-
 16	al	O	-	-
 17	3affaf	O	-	-
-18	Allahouma	O	-	-
+18	Allahouma	B-PER	-	-
 19	arzouq	O	-	-
 20	ahlahou	O	-	-
 21	al	O	-	-
 22	sebr	O	-	-
-23	Allahouma	O	-	-
+23	Allahouma	B-PER	-	-
 24	3adjil	O	-	-
 25	bi	O	-	-
 26	chiffaihi	O	-	-
@@ -1274,7 +1274,7 @@
 
 # sent_id = 1914
 # text = alhe yarhamha oi ya g3alha mina al moaminine oi mine ashabe al janhe
-1	alhe	O	-	-
+1	alhe	B-PER	-	-
 2	yarhamha	O	-	-
 3	oi	O	-	-
 4	ya	O	-	-
@@ -1290,7 +1290,7 @@
 
 # sent_id = 413
 # text = rabi m3ana
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	m3ana	O	-	-
 
 # sent_id = 1965
@@ -1299,7 +1299,7 @@
 2	ya	O	-	-
 3	habibo	O	-	-
 4	nchallah	O	-	-
-5	rabi	O	-	-
+5	rabi	B-PER	-	-
 6	ykoun	O	-	-
 7	m3ak	O	-	-
 8	123	O	-	-
@@ -1366,7 +1366,7 @@
 3	algirie	B-LOC	-	-
 4	nchalah	O	-	-
 5	ya	O	-	-
-6	rabi	O	-	-
+6	rabi	B-PER	-	-
 7	rana	O	-	-
 8	rabhin	O	-	-
 9	ranna	O	-	-
@@ -1484,7 +1484,7 @@
 5	maroc	B-LOC	-	-
 6	3antlakaw	O	-	-
 7	incha	O	-	-
-8	allah	O	-	-
+8	allah	B-PER	-	-
 9	tani	O	-	-
 10	f	O	-	-
 11	marakkech	B-LOC	-	-
@@ -1507,7 +1507,7 @@
 4	à	O	-	-
 5	toi	O	-	-
 6	karim	B-PER	-	-
-7	rabbi	O	-	-
+7	rabbi	B-PER	-	-
 8	nchallah	O	-	-
 9	yaslahlek	O	-	-
 10	fiha	O	-	-
@@ -1520,7 +1520,7 @@
 17	ywafkek	O	-	-
 18	amine	O	-	-
 19	ya	O	-	-
-20	rabbi	O	-	-
+20	rabbi	B-PER	-	-
 21	l	O	-	-
 22	3alamine	O	-	-
 
@@ -1606,7 +1606,7 @@
 
 # sent_id = 4586
 # text = ellahoma ahdina we3fo 3ana
-1	ellahoma	O	-	-
+1	ellahoma	B-PER	-	-
 2	ahdina	O	-	-
 3	w	O	-	-
 4	e3fo	O	-	-
@@ -1621,7 +1621,7 @@
 5	9ouata	O	-	-
 6	illa	O	-	-
 7	bi	O	-	-
-8	lleh	O	-	-
+8	lleh	B-PER	-	-
 9	el	O	-	-
 10	3alii	O	-	-
 11	l'	O	-	-
@@ -1650,13 +1650,13 @@
 34	on	O	-	-
 35	puisse	O	-	-
 36	imaginer	O	-	-
-37	allah	O	-	-
+37	allah	B-PER	-	-
 38	yahdina	O	-	-
 39	w	O	-	-
 40	yechfi	O	-	-
 41	les	O	-	-
 42	petites	O	-	-
-43	RABI	O	-	-
+43	RABI	B-PER	-	-
 44	KBIR	O	-	-
 
 # sent_id = 3302
@@ -1689,7 +1689,7 @@
 1	vive	O	-	-
 2	toi	O	-	-
 3	magik	B-PER	-	-
-4	rabi	O	-	-
+4	rabi	B-PER	-	-
 5	m3ak	O	-	-
 
 # sent_id = 4655
@@ -1746,7 +1746,7 @@
 
 # sent_id = 2372
 # text = rabi ykoun m3ahoum nchallah c la vie
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	ykoun	O	-	-
 3	m3ahoum	O	-	-
 4	nchallah	O	-	-
@@ -1964,7 +1964,7 @@
 10	egypt	B-LOC	-	-
 11	nchalah	O	-	-
 12	ya	O	-	-
-13	rabi	O	-	-
+13	rabi	B-PER	-	-
 
 # sent_id = 225
 # text = ichouf tofla 3aîcha fi 3ezz weldiha même à l'âge de 30 ans >>ya3jbou el islam
@@ -2066,7 +2066,7 @@
 35	b	O	-	-
 36	el	O	-	-
 37	kounta	O	-	-
-38	rabi	O	-	-
+38	rabi	B-PER	-	-
 39	yahedik	O	-	-
 40	ya	O	-	-
 41	boubaker	B-PER	-	-
@@ -2076,9 +2076,9 @@
 45	3erame	O	-	-
 46	3elik	O	-	-
 47	3and	O	-	-
-48	rabi	O	-	-
+48	rabi	B-PER	-	-
 49	hassebena	O	-	-
-50	allah	O	-	-
+50	allah	B-PER	-	-
 51	wa	O	-	-
 52	ne3ema	O	-	-
 53	wakille	O	-	-
@@ -2087,26 +2087,26 @@
 # text = bismi elah wa lahou akbar alahouma ounsour ekwanana fi gaza alhouma damir elyahoud wa man ma3ahoum alahouma damir amreka alahouma ehdi hokama el mouslimine wa sadide raayahoum
 1	bi	O	-	-
 2	smi	O	-	-
-3	elah	O	-	-
+3	elah	B-PER	-	-
 4	wa	O	-	-
-5	lahou	O	-	-
+5	lahou	B-PER	-	-
 6	akbar	O	-	-
-7	alahouma	O	-	-
+7	alahouma	B-PER	-	-
 8	ounsour	O	-	-
 9	ekwanana	O	-	-
 10	fi	O	-	-
 11	gaza	B-LOC	-	-
-12	alhouma	O	-	-
+12	alhouma	B-PER	-	-
 13	damir	O	-	-
 14	el	O	-	-
 15	yahoud	O	-	-
 16	wa	O	-	-
 17	man	O	-	-
 18	ma3ahoum	O	-	-
-19	alahouma	O	-	-
+19	alahouma	B-PER	-	-
 20	damir	O	-	-
 21	amreka	B-LOC	-	-
-22	alahouma	O	-	-
+22	alahouma	B-PER	-	-
 23	ehdi	O	-	-
 24	hokama	O	-	-
 25	el	O	-	-
@@ -2145,7 +2145,7 @@
 # sent_id = 1271
 # text = Khafoo rabi ya djma3a rakoom bahdeltoona par tout
 1	Khafoo	O	-	-
-2	rabi	O	-	-
+2	rabi	B-PER	-	-
 3	ya	O	-	-
 4	djma3a	O	-	-
 5	rakoom	O	-	-
@@ -2197,9 +2197,9 @@
 # sent_id = 2968
 # text = ya rabi ya allah koun m3ana inchallah rana fi mondiale 2010 toujour l'algerie mon amour
 1	ya	O	-	-
-2	rabi	O	-	-
+2	rabi	B-PER	-	-
 3	ya	O	-	-
-4	allah	O	-	-
+4	allah	B-PER	-	-
 5	koun	O	-	-
 6	m3ana	O	-	-
 7	inchallah	O	-	-
@@ -2221,7 +2221,7 @@
 4	ma3andna	O	-	-
 5	walou	O	-	-
 6	ghir	O	-	-
-7	rabi	O	-	-
+7	rabi	B-PER	-	-
 8	soub7ane	O	-	-
 
 # sent_id = 4659
@@ -2254,11 +2254,11 @@
 26	al	O	-	-
 27	hadit	O	-	-
 28	la3nato	O	-	-
-29	allah	O	-	-
+29	allah	B-PER	-	-
 30	3alieh	O	-	-
 31	oe	O	-	-
 32	wlidak	O	-	-
-33	allah	O	-	-
+33	allah	B-PER	-	-
 34	eyrahmo	O	-	-
 35	oe	O	-	-
 36	eywasa3	O	-	-
@@ -2273,10 +2273,10 @@
 # sent_id = 571
 # text = Soubhan ALLAH el mousta3an Rabi yahfadhoum amine avez vous oublié que vous allez faire face à notre créateur et rendre compte de vos actes ?
 1	Soubhan	O	-	-
-2	ALLAH	O	-	-
+2	ALLAH	B-PER	-	-
 3	el	O	-	-
 4	mousta3an	O	-	-
-5	Rabi	O	-	-
+5	Rabi	B-PER	-	-
 6	yahfadhoum	O	-	-
 7	amine	O	-	-
 8	avez	O	-	-
@@ -2325,7 +2325,7 @@
 
 # sent_id = 3527
 # text = rabi m3ak khouya on te souhaite tte la réussite inchalah
-1	rabi	O	-	-
+1	rabi	B-PER	-	-
 2	m3ak	O	-	-
 3	khouya	O	-	-
 4	on	O	-	-
@@ -2343,7 +2343,7 @@
 3	ftourkom	O	-	-
 4	a	O	-	-
 5	tous	O	-	-
-6	allah	O	-	-
+6	allah	B-PER	-	-
 7	m3akom	O	-	-
 8	ya	O	-	-
 9	rdjala	O	-	-
@@ -2390,7 +2390,7 @@
 3	al	O	-	-
 4	khadra	B-ORG	-	-
 5	b	O	-	-
-6	rabi	O	-	-
+6	rabi	B-PER	-	-
 7	rabhin	O	-	-
 8	m3a	O	-	-
 9	al	O	-	-
@@ -2604,7 +2604,7 @@
 
 # sent_id = 1981
 # text = Rabi m3akom et bon courage wled bledi
-1	Rabi	O	-	-
+1	Rabi	B-PER	-	-
 2	m3akom	O	-	-
 3	et	O	-	-
 4	bon	O	-	-
