@@ -14,7 +14,7 @@ If you use this dataset, please cite the corresponding [paper](https://aclanthol
 }
 ```
 
-And cite the paper for the original dataset that was converted into UNER: 
+And cite the [paper](https://aclanthology.org/2023.law-1.26/) for the original dataset: 
 ```
 @inproceedings{riabi2023enriching,
     title = "Enriching the {NA}rabizi Treebank: A Multifaceted Approach to Supporting an Under-Resourced Language",
