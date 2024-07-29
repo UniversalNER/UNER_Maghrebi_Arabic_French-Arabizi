@@ -1,8 +1,5 @@
 # UNER_Maghrebi_Arabic_French-Arabizi
 
-UNER_Maghrebi_Arabic_French-Arabizi is based on the [UD_Maghrebi_Arabic_French-Arabizi](https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi) dataset.
-
-
 The UNER dataset for the UNER_Maghrebi_Arabic_French-Arabizi. UNER_Maghrebi_Arabic_French-Arabizi is part of [Universal NER](https://www.universalner.org/) and is based on the [UD_Maghrebi_Arabic_French-Arabizi](https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi) dataset. This dataset was originally developed as part of [additional annotation layers](https://gitlab.inria.fr/ariabi/release-narabizi-treebank) on the UD NArabizi treebank and then converted into the UNER format and released with UNER v1. 
 
 If you use this dataset, please cite the corresponding [paper](https://aclanthology.org/2024.naacl-long.243/):
